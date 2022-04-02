@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JavaScript Network Graph</title>
+    <title>Каталог манги</title>
     <style>
       html, body, #container {
         width: 100%;
@@ -10,40 +10,94 @@
         padding: 0;
       }
 
-
     </style>
     <script src="https://cdn.anychart.com/releases/8.8.0/js/anychart-core.min.js"></script>
     <script src="https://cdn.anychart.com/releases/8.8.0/js/anychart-graph.min.js"></script>
     <script src="https://cdn.anychart.com/releases/8.8.0/js/anychart-data-adapter.min.js"></script>
+    <script
+            src="https://code.jquery.com/jquery-3.6.0.js"
+            integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+            crossorigin="anonymous"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 <body>
 <div id="container"></div>
 <script>
-     anychart.data.loadJsonFile('data.json', function (data) {
-var chart = anychart.graph(data);
 
-// set the title
-chart.title("Network Graph showing the battles in Game of Thrones");
-var nodes = chart.nodes();
+anychart.data.loadJsonFile('data.json', function (data) {
+if(window.location.href.split('?').length == 1){
+    var chart = anychart.graph(data);
+    chart.title("Каталог манги/манхвы/маньхуи");
+    var nodes = chart.nodes();
 
-// set the size of nodes
+    chart.layout().iterationCount(10);
 
-chart.layout().iterationCount(10);
-// draw the chart
-chart.container("container").draw();
-chart.listen('click', function(e) {
-    var tag = e.domTarget.tag;
-    if (tag) {
-    console.log(nodes)
-      console.log(`Clicked ${tag.type} with ID ${tag.id}`);
-    }
+    chart.container("container").draw();
 
-  });
+    chart.listen('click', function(e) {
+        var tag = e.domTarget.tag;
+        if (tag) {
+          window.location.href = window.location.href = "/?"+tag.id
+        }
+      });
+
+}
+else{
+
+var decoded = decodeURIComponent(window.location.href.split('?')[1])
+var newData = {
+        nodes:[],
+        edges :[]
+      }
+
+      newData.nodes.push(getNodeInfo(data, decoded))
+      for(var i = 0; i < data.edges.length; i++){
+        if (data.edges[i].from == decoded){
+            newData.edges.push(data.edges[i])
+            newData.nodes.push(getNodeInfo(data, data.edges[i].to))
+
+        }
+        if (data.edges[i].to == decoded){
+            newData.edges.push(data.edges[i])
+            newData.nodes.push(getNodeInfo(data, data.edges[i].from))
+        }
+      }
+      var chart2 = anychart.graph(newData);
+
+      chart2.title(decoded);
+      var nodes = chart2.nodes()
+      nodes.normal().height(50);
+      nodes.hovered().height(60);
+      nodes.selected().height(65);
+
+      chart2.layout().iterationCount(10);
+      chart2.container("container").draw();
+
+      chart2.listen('click', function(e) {
+        var tag = e.domTarget.tag;
+        if (tag) {
+        console.log(getNodeInfo(newData, tag.id))
+           window.location.href = window.location.href = 'https://' + getNodeInfo(newData, tag.id)['url']
+        }
+      });
+
+}
 })
+function getNodeInfo(data, nodeName){
+    for(var i = 0; i < data.nodes.length; i++){
+        if(data.nodes[i].id == nodeName)
+            return data.nodes[i]
+    }
+}
+
+
+
+
 
 
 
 </script>
 </body>
 </html>
+

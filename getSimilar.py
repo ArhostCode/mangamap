@@ -13,9 +13,9 @@ driver = webdriver.Chrome(binary_yandex_driver_file, options=options)
 i = 0
 for manga in all:
     i += 1
-    if i < 500:
+    if i < 700:
         continue
-    if i > 700:
+    if i > 1000:
         break
 
     manga_name = all[manga]
@@ -37,10 +37,10 @@ for manga in all:
 
     data[manga_rus_name] = {"name": manga_name, "img": img, "similar": t}
 
-    print(data)
+    print(i, data)
 
 
-k = open("all-mangas-parsed500-700.json", "w", encoding="UTF-8")
+k = open("all-mangas-parsed700-1000.json", "w", encoding="UTF-8")
 k.write(json.dumps(data,ensure_ascii=False))
 
 driver.quit()
