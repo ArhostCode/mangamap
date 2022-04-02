@@ -1,0 +1,974 @@
+{
+  "items": {
+    "current_page": 3,
+    "data": [
+      {
+        "id": 1384,
+        "name": "Mushoku Tensei - Isekai Ittara Honki Dasu",
+        "eng_name": "Mushoku Tensei: If I Get to a Parallel Universe I'll Bring Out my True Effort",
+        "rus_name": "Реинкарнация безработного",
+        "cover": "splAOIpdD41V",
+        "slug": "mushoku-tensei-isekai-ittara-honki-dasu",
+        "type_id": 1,
+        "created_at": "2016-08-27T11:35:01.000000Z",
+        "updated_at": "2022-04-01T18:19:12.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/mushoku-tensei-isekai-ittara-honki-dasu/cover/splAOIpdD41V_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/mushoku-tensei-isekai-ittara-honki-dasu/cover/splAOIpdD41V_thumb.jpg"
+        }
+      },
+      {
+        "id": 19445,
+        "name": "Good teacher",
+        "eng_name": "The Good Teacher",
+        "rus_name": "Хороший учитель",
+        "cover": "JMzvgs3YuQP4",
+        "slug": "good-teacher",
+        "type_id": 5,
+        "created_at": "2019-12-11T05:48:30.000000Z",
+        "updated_at": "2022-04-01T18:19:22.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/good-teacher/cover/JMzvgs3YuQP4_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/good-teacher/cover/JMzvgs3YuQP4_thumb.jpg"
+        }
+      },
+      {
+        "id": 53428,
+        "name": "Namboda moshan sai",
+        "eng_name": "No better than strangers",
+        "rus_name": "Меньше, чем незнакомцы",
+        "cover": "mZaiL4X3adXc",
+        "slug": "namboda-moshan-sai",
+        "type_id": 5,
+        "created_at": "2020-11-19T09:29:29.000000Z",
+        "updated_at": "2022-04-01T18:19:08.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/namboda-moshan-sai/cover/mZaiL4X3adXc_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/namboda-moshan-sai/cover/mZaiL4X3adXc_thumb.jpg"
+        }
+      },
+      {
+        "id": 66256,
+        "name": "namjuui ib-yangttali doeeossseubnida",
+        "eng_name": "I Became the Male Lead’s Adopted Daughter",
+        "rus_name": "Приёмная дочь протагониста",
+        "cover": "qeM4D4uSjpMG",
+        "slug": "namjuui-ib-yangttali-doeeossseubnida",
+        "type_id": 5,
+        "created_at": "2021-03-05T02:53:55.000000Z",
+        "updated_at": "2022-04-01T18:19:14.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/namjuui-ib-yangttali-doeeossseubnida/cover/qeM4D4uSjpMG_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/namjuui-ib-yangttali-doeeossseubnida/cover/qeM4D4uSjpMG_thumb.jpg"
+        }
+      },
+      {
+        "id": 58504,
+        "name": "Ribeta",
+        "eng_name": "Liveta",
+        "rus_name": "Ливета",
+        "cover": "7NTuddo0lIxE",
+        "slug": "ribeta",
+        "type_id": 5,
+        "created_at": "2021-01-03T16:11:27.000000Z",
+        "updated_at": "2022-04-01T18:18:28.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/ribeta/cover/7NTuddo0lIxE_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/ribeta/cover/7NTuddo0lIxE_thumb.jpg"
+        }
+      },
+      {
+        "id": 34361,
+        "name": "Timjangnimi gwaengjanghae!",
+        "eng_name": "The team leader is wonderful!",
+        "rus_name": "Мой директор слишком идеален!",
+        "cover": "2rKIXfFv03Va",
+        "slug": "timjangnimi-gwaengjanghae",
+        "type_id": 5,
+        "created_at": "2020-05-25T13:23:50.000000Z",
+        "updated_at": "2022-04-01T18:18:53.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/timjangnimi-gwaengjanghae/cover/2rKIXfFv03Va_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/timjangnimi-gwaengjanghae/cover/2rKIXfFv03Va_thumb.jpg"
+        }
+      },
+      {
+        "id": 8611,
+        "name": "Naneun i jim ai",
+        "eng_name": "I am child of this house",
+        "rus_name": "Я - дитя этого дома",
+        "cover": "og0aYkO1QYOW",
+        "slug": "i-am-a-child-of-this-house-",
+        "type_id": 5,
+        "created_at": "2019-01-06T06:31:03.000000Z",
+        "updated_at": "2022-04-01T18:19:26.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/i-am-a-child-of-this-house-/cover/og0aYkO1QYOW_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/i-am-a-child-of-this-house-/cover/og0aYkO1QYOW_thumb.jpg"
+        }
+      },
+      {
+        "id": 1799,
+        "name": "10 Count",
+        "eng_name": "Ten Count",
+        "rus_name": "До десяти",
+        "cover": "MkpGsqenzhfP",
+        "slug": "10-count",
+        "type_id": 1,
+        "created_at": "2016-12-20T21:42:17.000000Z",
+        "updated_at": "2022-04-01T18:18:51.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/10-count/cover/MkpGsqenzhfP_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/10-count/cover/MkpGsqenzhfP_thumb.jpg"
+        }
+      },
+      {
+        "id": 15621,
+        "name": "My Suha",
+        "eng_name": "My subordinate",
+        "rus_name": "Мой подчинённый",
+        "cover": "dqgBGSRnYOZE",
+        "slug": "my-suha-",
+        "type_id": 5,
+        "created_at": "2019-08-18T04:56:03.000000Z",
+        "updated_at": "2022-04-01T18:19:00.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/my-suha-/cover/dqgBGSRnYOZE_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/my-suha-/cover/dqgBGSRnYOZE_thumb.jpg"
+        }
+      },
+      {
+        "id": 2053,
+        "name": "Tensei Shitara Slime Datta Ken",
+        "eng_name": "Regarding Reincarnated to Slime",
+        "rus_name": "О моём перерождении в слизь",
+        "cover": "65LvzIRXArfy",
+        "slug": "tensei-shitara-slime-datta-ken",
+        "type_id": 1,
+        "created_at": "2017-03-11T10:53:23.000000Z",
+        "updated_at": "2022-04-01T18:19:25.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/tensei-shitara-slime-datta-ken/cover/65LvzIRXArfy_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/tensei-shitara-slime-datta-ken/cover/65LvzIRXArfy_thumb.jpg"
+        }
+      },
+      {
+        "id": 9344,
+        "name": "Jibaku Shounen Hanako-kun",
+        "eng_name": "Toilet-Bound Hanako-kun",
+        "rus_name": "Туалетный мальчик Ханако-кун",
+        "cover": "170cIhELXfM6",
+        "slug": "jibaku-shounen-hanako-kun",
+        "type_id": 1,
+        "created_at": "2019-02-04T15:34:48.000000Z",
+        "updated_at": "2022-04-01T18:19:14.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/jibaku-shounen-hanako-kun/cover/170cIhELXfM6_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/jibaku-shounen-hanako-kun/cover/170cIhELXfM6_thumb.jpg"
+        }
+      },
+      {
+        "id": 36842,
+        "name": "Agnyeoneun Malioneteu",
+        "eng_name": "The Villainess is a Marionette",
+        "rus_name": "Злодейка-марионетка",
+        "cover": "X3JODkP7qquO",
+        "slug": "agnyeoneun-malioneteu",
+        "type_id": 5,
+        "created_at": "2020-06-14T08:05:45.000000Z",
+        "updated_at": "2022-04-01T18:19:18.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/agnyeoneun-malioneteu/cover/X3JODkP7qquO_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/agnyeoneun-malioneteu/cover/X3JODkP7qquO_thumb.jpg"
+        }
+      },
+      {
+        "id": 6977,
+        "name": "Shen Sheng",
+        "eng_name": "Shen Sheng",
+        "rus_name": "Шэнь Шэн",
+        "cover": "trXlb0k90W4u",
+        "slug": "shen-sheng-shen-shen-lic",
+        "type_id": 6,
+        "created_at": "2018-10-12T12:28:36.000000Z",
+        "updated_at": "2022-04-01T18:18:01.000000Z",
+        "type": "Маньхуа",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/shen-sheng-shen-shen-lic/cover/trXlb0k90W4u_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/shen-sheng-shen-shen-lic/cover/trXlb0k90W4u_thumb.jpg"
+        }
+      },
+      {
+        "id": 13282,
+        "name": "Insoui beobchig",
+        "eng_name": "My Life as an Internet Novel",
+        "rus_name": "Закон Бессонницы",
+        "cover": "L8pyxSy8Ocuc",
+        "slug": "law-of-insomnia",
+        "type_id": 5,
+        "created_at": "2019-06-16T02:03:34.000000Z",
+        "updated_at": "2022-04-01T18:18:45.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/law-of-insomnia/cover/L8pyxSy8Ocuc_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/law-of-insomnia/cover/L8pyxSy8Ocuc_thumb.jpg"
+        }
+      },
+      {
+        "id": 206,
+        "name": "One Piece",
+        "eng_name": "One Piece",
+        "rus_name": "Ван Пис",
+        "cover": "EdTLDvarmyxG",
+        "slug": "one-piece",
+        "type_id": 1,
+        "created_at": "2016-05-29T10:53:23.000000Z",
+        "updated_at": "2022-04-01T18:19:26.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/one-piece/cover/EdTLDvarmyxG_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/one-piece/cover/EdTLDvarmyxG_thumb.jpg"
+        }
+      },
+      {
+        "id": 9261,
+        "name": "Jiju guseul-eul gajida",
+        "eng_name": "Keeper of the Pearl",
+        "rus_name": "Хранитель жемчужины",
+        "cover": "d4XfGTIfdq",
+        "slug": "jiju-guseul-eul-gajida",
+        "type_id": 5,
+        "created_at": "2019-02-02T05:48:26.000000Z",
+        "updated_at": "2022-04-01T18:19:25.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/jiju-guseul-eul-gajida/cover/d4XfGTIfdq_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/jiju-guseul-eul-gajida/cover/d4XfGTIfdq_thumb.jpg"
+        }
+      },
+      {
+        "id": 4739,
+        "name": "Haegolbyeongsaneun Danjon-eul Jikiji Moshaessda",
+        "eng_name": "The Skeleton Soldier Failed to Defend the Dungeon",
+        "rus_name": "Воин-скелет не смог защитить подземелье",
+        "cover": "GvPOxtSfzMTd",
+        "slug": "skeleton-soldier-couldnt-protect-the-dungeon",
+        "type_id": 5,
+        "created_at": "2018-07-06T18:14:50.000000Z",
+        "updated_at": "2022-04-01T18:19:26.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/skeleton-soldier-couldnt-protect-the-dungeon/cover/GvPOxtSfzMTd_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/skeleton-soldier-couldnt-protect-the-dungeon/cover/GvPOxtSfzMTd_thumb.jpg"
+        }
+      },
+      {
+        "id": 18621,
+        "name": "Riteon Seobaibeol",
+        "eng_name": "Return Survival",
+        "rus_name": "Выживание с нуля",
+        "cover": "jlOzHLu9yyAA",
+        "slug": "return-to-survive",
+        "type_id": 5,
+        "created_at": "2019-11-19T05:46:01.000000Z",
+        "updated_at": "2022-04-01T18:19:21.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/return-to-survive/cover/jlOzHLu9yyAA_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/return-to-survive/cover/jlOzHLu9yyAA_thumb.jpg"
+        }
+      },
+      {
+        "id": 35265,
+        "name": "Love Shuttle",
+        "eng_name": "Love Shuttle",
+        "rus_name": "Движение любви",
+        "cover": "3mMJc7Y4Vl",
+        "slug": "love-shuttle",
+        "type_id": 5,
+        "created_at": "2020-06-01T15:10:46.000000Z",
+        "updated_at": "2022-04-01T18:19:15.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/love-shuttle/cover/3mMJc7Y4Vl_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/love-shuttle/cover/3mMJc7Y4Vl_thumb.jpg"
+        }
+      },
+      {
+        "id": 5860,
+        "name": "Dol-aon gyejeol",
+        "eng_name": "His time of year",
+        "rus_name": "Его время года",
+        "cover": "AMscnbWEAj",
+        "slug": "his-time-of-year",
+        "type_id": 5,
+        "created_at": "2018-08-19T11:29:09.000000Z",
+        "updated_at": "2022-04-01T18:19:23.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/his-time-of-year/cover/AMscnbWEAj_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/his-time-of-year/cover/AMscnbWEAj_thumb.jpg"
+        }
+      },
+      {
+        "id": 25692,
+        "name": "Circle Trap",
+        "eng_name": "Circle Trap",
+        "rus_name": "Ловушка",
+        "cover": "jZIP9cjMWK9Z",
+        "slug": "circle-trap",
+        "type_id": 5,
+        "created_at": "2020-03-15T15:15:25.000000Z",
+        "updated_at": "2022-04-01T18:18:53.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/circle-trap/cover/jZIP9cjMWK9Z_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/circle-trap/cover/jZIP9cjMWK9Z_thumb.jpg"
+        }
+      },
+      {
+        "id": 45412,
+        "name": "EunsuS2day",
+        "eng_name": "Eunsoo's Good Day",
+        "rus_name": "Хороший день для Ын Су",
+        "cover": "i4key1vTZsH2",
+        "slug": "eunsus2day",
+        "type_id": 5,
+        "created_at": "2020-08-26T07:44:59.000000Z",
+        "updated_at": "2022-04-01T18:17:48.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/eunsus2day/cover/i4key1vTZsH2_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/eunsus2day/cover/i4key1vTZsH2_thumb.jpg"
+        }
+      },
+      {
+        "id": 13506,
+        "name": "Kiraide Isasete",
+        "eng_name": "",
+        "rus_name": "Позволь мне тебя ненавидеть",
+        "cover": "83Eg6r1v9098",
+        "slug": "kiraide-isasete",
+        "type_id": 1,
+        "created_at": "2019-06-22T09:00:22.000000Z",
+        "updated_at": "2022-04-01T18:19:17.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/kiraide-isasete/cover/83Eg6r1v9098_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/kiraide-isasete/cover/83Eg6r1v9098_thumb.jpg"
+        }
+      },
+      {
+        "id": 4759,
+        "name": "Naui Piwa Yeonghon-eul Geudaeege",
+        "eng_name": "I'm Yours, Blood and Soul",
+        "rus_name": "Моя кровь и душа для тебя",
+        "cover": "E1sUfQlWEAFT",
+        "slug": "naui-piwa-yeonghon-eul-geudaeege",
+        "type_id": 5,
+        "created_at": "2018-07-07T19:09:12.000000Z",
+        "updated_at": "2022-04-01T18:18:16.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/naui-piwa-yeonghon-eul-geudaeege/cover/E1sUfQlWEAFT_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/naui-piwa-yeonghon-eul-geudaeege/cover/E1sUfQlWEAFT_thumb.jpg"
+        }
+      },
+      {
+        "id": 44778,
+        "name": "sangsulinamu alae",
+        "eng_name": "Under the Oak Tree",
+        "rus_name": "Под дубом",
+        "cover": "JIdM8pLtxv2D",
+        "slug": "sangsulinamu-alae",
+        "type_id": 5,
+        "created_at": "2020-08-21T15:10:57.000000Z",
+        "updated_at": "2022-04-01T18:19:04.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/sangsulinamu-alae/cover/JIdM8pLtxv2D_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/sangsulinamu-alae/cover/JIdM8pLtxv2D_thumb.jpg"
+        }
+      },
+      {
+        "id": 13460,
+        "name": "Tian Guan Ci Fu (Manhua)",
+        "eng_name": "Heaven Official’s Blessing",
+        "rus_name": "Благословение небожителей",
+        "cover": "cWFVnFU4tjIe",
+        "slug": "tian-guan-ci-fu-manhua",
+        "type_id": 6,
+        "created_at": "2019-06-21T03:36:26.000000Z",
+        "updated_at": "2022-04-01T18:18:46.000000Z",
+        "type": "Маньхуа",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/tian-guan-ci-fu-manhua/cover/cWFVnFU4tjIe_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/tian-guan-ci-fu-manhua/cover/cWFVnFU4tjIe_thumb.jpg"
+        }
+      },
+      {
+        "id": 31674,
+        "name": "Deulamatighage Salanghaejwo",
+        "eng_name": "Love is like a drama",
+        "rus_name": "Любовь как в дораме",
+        "cover": "cover",
+        "slug": "deulamatighage-salanghaejwo",
+        "type_id": 5,
+        "created_at": "2020-05-06T15:38:58.000000Z",
+        "updated_at": "2022-04-01T18:18:56.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/deulamatighage-salanghaejwo/cover/cover_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/deulamatighage-salanghaejwo/cover/cover_thumb.jpg"
+        }
+      },
+      {
+        "id": 566,
+        "name": "Toukyou Kushu",
+        "eng_name": "Tokyo Ghoul",
+        "rus_name": "Токийский Гуль",
+        "cover": "XXE0vhlR4bGs",
+        "slug": "toukyou-kushu",
+        "type_id": 1,
+        "created_at": "2016-06-04T09:19:24.000000Z",
+        "updated_at": "2022-04-01T18:19:16.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/toukyou-kushu/cover/XXE0vhlR4bGs_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/toukyou-kushu/cover/XXE0vhlR4bGs_thumb.jpg"
+        }
+      },
+      {
+        "id": 44143,
+        "name": "Geunyeowa yasu",
+        "eng_name": "She and the beast",
+        "rus_name": "Она и зверь",
+        "cover": "apWor6c3rNZk",
+        "slug": "geunyeowa-yasu",
+        "type_id": 5,
+        "created_at": "2020-08-16T15:59:41.000000Z",
+        "updated_at": "2022-04-01T18:18:49.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/geunyeowa-yasu/cover/apWor6c3rNZk_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/geunyeowa-yasu/cover/apWor6c3rNZk_thumb.jpg"
+        }
+      },
+      {
+        "id": 6738,
+        "name": "Sigseusenseu",
+        "eng_name": "The Sixth Sense",
+        "rus_name": "Шестое чувство",
+        "cover": "CZlfHsjrNJ",
+        "slug": "the-sixth-sense",
+        "type_id": 5,
+        "created_at": "2018-09-29T08:24:47.000000Z",
+        "updated_at": "2022-04-01T18:19:08.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/the-sixth-sense/cover/CZlfHsjrNJ_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/the-sixth-sense/cover/CZlfHsjrNJ_thumb.jpg"
+        }
+      },
+      {
+        "id": 22550,
+        "name": "ag-yeog i bepuneun mideog",
+        "eng_name": "Virtue Bestowed by the Villainess",
+        "rus_name": "Добродетель злодейки",
+        "cover": "wWrM8mIR3h4x",
+        "slug": "ag-yeog-i-bepuneun-mideog",
+        "type_id": 5,
+        "created_at": "2020-02-02T11:38:01.000000Z",
+        "updated_at": "2022-04-01T18:19:14.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/ag-yeog-i-bepuneun-mideog/cover/wWrM8mIR3h4x_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/ag-yeog-i-bepuneun-mideog/cover/wWrM8mIR3h4x_thumb.jpg"
+        }
+      },
+      {
+        "id": 4567,
+        "name": "Wu Lian Dianfeng",
+        "eng_name": "Martial Peak",
+        "rus_name": "Пик боевых искусств",
+        "cover": "zg1Zf9QLfHmj",
+        "slug": "martial-peak",
+        "type_id": 6,
+        "created_at": "2018-06-17T11:36:41.000000Z",
+        "updated_at": "2022-04-01T18:19:10.000000Z",
+        "type": "Маньхуа",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/martial-peak/cover/zg1Zf9QLfHmj_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/martial-peak/cover/zg1Zf9QLfHmj_thumb.jpg"
+        }
+      },
+      {
+        "id": 20399,
+        "name": "agnyeoui namjunim",
+        "eng_name": "Evil Lady's Hero",
+        "rus_name": "Герой для злой леди",
+        "cover": "m2Ng2W2Yc7Z1",
+        "slug": "agnyeoui-namjunim",
+        "type_id": 5,
+        "created_at": "2020-01-01T04:43:54.000000Z",
+        "updated_at": "2022-04-01T18:18:44.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/agnyeoui-namjunim/cover/m2Ng2W2Yc7Z1_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/agnyeoui-namjunim/cover/m2Ng2W2Yc7Z1_thumb.jpg"
+        }
+      },
+      {
+        "id": 35398,
+        "name": "agnyeo neun du beon sandа",
+        "eng_name": "The second life of the villain",
+        "rus_name": "Вторая жизнь злодейки",
+        "cover": "LW9yp8FGs0Sx",
+        "slug": "agnyeo-neun-du-beon-sanda",
+        "type_id": 5,
+        "created_at": "2020-06-02T11:09:19.000000Z",
+        "updated_at": "2022-04-01T18:18:31.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/agnyeo-neun-du-beon-sanda/cover/LW9yp8FGs0Sx_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/agnyeo-neun-du-beon-sanda/cover/LW9yp8FGs0Sx_thumb.jpg"
+        }
+      },
+      {
+        "id": 4303,
+        "name": "Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",
+        "eng_name": "I sold my life for ten thousand yen per year.",
+        "rus_name": "Я распродал свою жизнь по 10000 йен за год",
+        "cover": "Gd7FeJOY4p3p",
+        "slug": "jumyou-wo-kaitotte-moratta-ichinen-ni-tsuki-ichimanen-de",
+        "type_id": 1,
+        "created_at": "2018-05-04T12:20:43.000000Z",
+        "updated_at": "2022-04-01T18:16:48.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/jumyou-wo-kaitotte-moratta-ichinen-ni-tsuki-ichimanen-de/cover/Gd7FeJOY4p3p_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/jumyou-wo-kaitotte-moratta-ichinen-ni-tsuki-ichimanen-de/cover/Gd7FeJOY4p3p_thumb.jpg"
+        }
+      },
+      {
+        "id": 6975,
+        "name": "Bichgwa geulimja",
+        "eng_name": "Light & Shadow",
+        "rus_name": "Свет и тень",
+        "cover": "5vUN3Q1jC7G1",
+        "slug": "light-amp-shadow",
+        "type_id": 5,
+        "created_at": "2018-10-12T08:35:43.000000Z",
+        "updated_at": "2022-04-01T18:18:59.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/light-amp-shadow/cover/5vUN3Q1jC7G1_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/light-amp-shadow/cover/5vUN3Q1jC7G1_thumb.jpg"
+        }
+      },
+      {
+        "id": 12396,
+        "name": "Hyperventilation",
+        "eng_name": "Breathing",
+        "rus_name": "Гипервентиляция",
+        "cover": "6bmYP8KtUlO5",
+        "slug": "breathing",
+        "type_id": 5,
+        "created_at": "2019-05-15T04:26:00.000000Z",
+        "updated_at": "2022-04-01T18:14:18.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/breathing/cover/6bmYP8KtUlO5_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/breathing/cover/6bmYP8KtUlO5_thumb.jpg"
+        }
+      },
+      {
+        "id": 54835,
+        "name": "Tokkiwa heugpyobeom-ui gongsaeng-gwangye",
+        "eng_name": "Symbiosis between rabbit and panther",
+        "rus_name": "Симбиоз между кроликом и чёрной пантерой",
+        "cover": "KlNCQcy9a0aW",
+        "slug": "tokkiwa-heugpyobeom-ui-gongsaeng-gwangye",
+        "type_id": 5,
+        "created_at": "2020-11-30T07:58:33.000000Z",
+        "updated_at": "2022-04-01T18:19:11.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/tokkiwa-heugpyobeom-ui-gongsaeng-gwangye/cover/KlNCQcy9a0aW_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/tokkiwa-heugpyobeom-ui-gongsaeng-gwangye/cover/KlNCQcy9a0aW_thumb.jpg"
+        }
+      },
+      {
+        "id": 4277,
+        "name": "Yarichin☆Bitch-bu",
+        "eng_name": "Yarichin ☆ Bitch Club",
+        "rus_name": "Клуб Яричин",
+        "cover": "tjnjR2fbLiEs",
+        "slug": "yarichin-bitch-club",
+        "type_id": 1,
+        "created_at": "2018-04-28T12:33:18.000000Z",
+        "updated_at": "2022-04-01T18:19:13.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/yarichin-bitch-club/cover/tjnjR2fbLiEs_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/yarichin-bitch-club/cover/tjnjR2fbLiEs_thumb.jpg"
+        }
+      },
+      {
+        "id": 16800,
+        "name": "Badi kompeullekseu",
+        "eng_name": "Body complex",
+        "rus_name": "Комплекс тела",
+        "cover": "cover",
+        "slug": "badi-kompeullekseu",
+        "type_id": 5,
+        "created_at": "2019-09-25T17:48:49.000000Z",
+        "updated_at": "2022-04-01T18:18:51.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/badi-kompeullekseu/cover/cover_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/badi-kompeullekseu/cover/cover_thumb.jpg"
+        }
+      },
+      {
+        "id": 11996,
+        "name": "Goemul gongjagga-ui gyeyag gongnyeo",
+        "eng_name": "The Monster Duchess and Contract Princess",
+        "rus_name": "Княгиня чудовищ и Принцесса по контракту",
+        "cover": "QUhocH4ChdYM",
+        "slug": "the-monster-duchess-and-contract-princess",
+        "type_id": 5,
+        "created_at": "2019-05-01T11:34:33.000000Z",
+        "updated_at": "2022-04-01T18:17:45.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/the-monster-duchess-and-contract-princess/cover/QUhocH4ChdYM_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/the-monster-duchess-and-contract-princess/cover/QUhocH4ChdYM_thumb.jpg"
+        }
+      },
+      {
+        "id": 285,
+        "name": "Sin-ui Tap",
+        "eng_name": "Tower of God",
+        "rus_name": "Башня Бога",
+        "cover": "s68sJ9cmjUqX",
+        "slug": "tower-of-god",
+        "type_id": 5,
+        "created_at": "2016-06-01T23:27:54.000000Z",
+        "updated_at": "2022-04-01T18:19:21.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/tower-of-god/cover/s68sJ9cmjUqX_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/tower-of-god/cover/s68sJ9cmjUqX_thumb.jpg"
+        }
+      },
+      {
+        "id": 1651,
+        "name": "Saediseutig",
+        "eng_name": "Sadistic Beauty",
+        "rus_name": "Прелести садизма",
+        "cover": "QKZ0i8Jku3jk",
+        "slug": "sadistic-beauty",
+        "type_id": 5,
+        "created_at": "2016-11-06T06:27:47.000000Z",
+        "updated_at": "2022-04-01T18:19:09.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/sadistic-beauty/cover/QKZ0i8Jku3jk_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/sadistic-beauty/cover/QKZ0i8Jku3jk_thumb.jpg"
+        }
+      },
+      {
+        "id": 27192,
+        "name": "acdangyn abarl kkotiora",
+        "eng_name": "Seduce the Villain's Father",
+        "rus_name": "Соблазнить отца злодея",
+        "cover": "UceJwEguJf5h",
+        "slug": "i-adopted-a-robber",
+        "type_id": 5,
+        "created_at": "2020-03-31T13:06:45.000000Z",
+        "updated_at": "2022-04-01T18:19:14.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/i-adopted-a-robber/cover/UceJwEguJf5h_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/i-adopted-a-robber/cover/UceJwEguJf5h_thumb.jpg"
+        }
+      },
+      {
+        "id": 5530,
+        "name": "Jiog-ui Kkeut-eseo",
+        "eng_name": "THIRDS: End of Hell",
+        "rus_name": "THIRDS: Когда кончается ад",
+        "cover": "cover",
+        "slug": "jiog-ui-kkeut-eseo",
+        "type_id": 5,
+        "created_at": "2018-08-08T16:16:32.000000Z",
+        "updated_at": "2022-04-01T18:19:14.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/jiog-ui-kkeut-eseo/cover/cover_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/jiog-ui-kkeut-eseo/cover/cover_thumb.jpg"
+        }
+      },
+      {
+        "id": 7819,
+        "name": "La Dolce Vita di Adelaide",
+        "eng_name": "Cold Duke Adele",
+        "rus_name": "Аделаида",
+        "cover": "1ZoComy78huG",
+        "slug": "cold-duke-adele",
+        "type_id": 5,
+        "created_at": "2018-11-25T10:51:44.000000Z",
+        "updated_at": "2022-04-01T18:18:17.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/cold-duke-adele/cover/1ZoComy78huG_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/cold-duke-adele/cover/1ZoComy78huG_thumb.jpg"
+        }
+      },
+      {
+        "id": 18999,
+        "name": "Enjel Beodi",
+        "eng_name": "Angel buddy",
+        "rus_name": "Приятель ангел",
+        "cover": "U6hfJY81qlJt",
+        "slug": "enjel-beodi-nahvh",
+        "type_id": 5,
+        "created_at": "2019-11-30T04:27:45.000000Z",
+        "updated_at": "2022-04-01T18:19:01.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/enjel-beodi-nahvh/cover/U6hfJY81qlJt_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/enjel-beodi-nahvh/cover/U6hfJY81qlJt_thumb.jpg"
+        }
+      },
+      {
+        "id": 62675,
+        "name": "appa, na i gyeolhon anhallaeyo! (webtoon)",
+        "eng_name": "Daddy, I Don't Want To Get Married!",
+        "rus_name": "Папа, я против этого брака!",
+        "cover": "B741hdbld0Rk",
+        "slug": "appa-na-i-gyeolhon-anhallaeyo-webtoon",
+        "type_id": 5,
+        "created_at": "2021-02-04T11:52:27.000000Z",
+        "updated_at": "2022-04-01T18:19:16.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/appa-na-i-gyeolhon-anhallaeyo-webtoon/cover/B741hdbld0Rk_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/appa-na-i-gyeolhon-anhallaeyo-webtoon/cover/B741hdbld0Rk_thumb.jpg"
+        }
+      },
+      {
+        "id": 9969,
+        "name": "leidi beibi",
+        "eng_name": "Lady Baby",
+        "rus_name": "Леди-малышка",
+        "cover": "XrDL94bE1CTt",
+        "slug": "leidi-beibi",
+        "type_id": 5,
+        "created_at": "2019-02-26T03:48:36.000000Z",
+        "updated_at": "2022-04-01T18:18:42.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/leidi-beibi/cover/XrDL94bE1CTt_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/leidi-beibi/cover/XrDL94bE1CTt_thumb.jpg"
+        }
+      },
+      {
+        "id": 46423,
+        "name": "yeoghalem geim sog-eulo tteol-eojin moyang-ibnida",
+        "eng_name": "It Looks Like I’ve Fallen into the World of a Reverse Harem Game",
+        "rus_name": "Кажется, я попала в мир игры-гаремника",
+        "cover": "I1cP20qttpUx",
+        "slug": "yeoghalem-geim-sog-eulo-tteol-eojin-moyang-ibnida",
+        "type_id": 5,
+        "created_at": "2020-09-05T11:09:51.000000Z",
+        "updated_at": "2022-04-01T18:18:57.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/yeoghalem-geim-sog-eulo-tteol-eojin-moyang-ibnida/cover/I1cP20qttpUx_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/yeoghalem-geim-sog-eulo-tteol-eojin-moyang-ibnida/cover/I1cP20qttpUx_thumb.jpg"
+        }
+      },
+      {
+        "id": 62453,
+        "name": "Jeobgeun bulga leidi (webtoon)",
+        "eng_name": "Untouchable Lady",
+        "rus_name": "Недосягаемая леди",
+        "cover": "bKTFmhrAUtFT",
+        "slug": "jeobgeun-bulga-leidi-webtoon",
+        "type_id": 5,
+        "created_at": "2021-02-02T07:52:08.000000Z",
+        "updated_at": "2022-04-01T18:18:34.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/jeobgeun-bulga-leidi-webtoon/cover/bKTFmhrAUtFT_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/jeobgeun-bulga-leidi-webtoon/cover/bKTFmhrAUtFT_thumb.jpg"
+        }
+      },
+      {
+        "id": 46085,
+        "name": "Jigojisun",
+        "eng_name": "Highest Order",
+        "rus_name": "Потерянный и невинный",
+        "cover": "Ich7T1SIkDNu",
+        "slug": "jigojisun",
+        "type_id": 5,
+        "created_at": "2020-09-01T07:18:01.000000Z",
+        "updated_at": "2022-04-01T18:19:08.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/jigojisun/cover/Ich7T1SIkDNu_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/jigojisun/cover/Ich7T1SIkDNu_thumb.jpg"
+        }
+      },
+      {
+        "id": 37049,
+        "name": "Mad dog",
+        "eng_name": "Mad dog",
+        "rus_name": "Бешеный пёс",
+        "cover": "c0RRfKJ2zT",
+        "slug": "mad-dog",
+        "type_id": 5,
+        "created_at": "2020-06-15T14:45:01.000000Z",
+        "updated_at": "2022-04-01T18:19:25.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/mad-dog/cover/c0RRfKJ2zT_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/mad-dog/cover/c0RRfKJ2zT_thumb.jpg"
+        }
+      },
+      {
+        "id": 4256,
+        "name": "Bagjwi Sayug",
+        "eng_name": "How to Breed Your Bat",
+        "rus_name": "Как взрастить вампира",
+        "cover": "cover",
+        "slug": "how-to-breed-your-bat",
+        "type_id": 5,
+        "created_at": "2018-04-24T07:27:58.000000Z",
+        "updated_at": "2022-04-01T18:19:11.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/how-to-breed-your-bat/cover/cover_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/how-to-breed-your-bat/cover/cover_thumb.jpg"
+        }
+      },
+      {
+        "id": 13704,
+        "name": "Dogul-wang",
+        "eng_name": "Tomb Raider King",
+        "rus_name": "Расхититель гробниц",
+        "cover": "xcPlBYxeFCZ0",
+        "slug": "tomb-raider",
+        "type_id": 5,
+        "created_at": "2019-07-01T04:18:52.000000Z",
+        "updated_at": "2022-04-01T18:19:08.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/tomb-raider/cover/xcPlBYxeFCZ0_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/tomb-raider/cover/xcPlBYxeFCZ0_thumb.jpg"
+        }
+      },
+      {
+        "id": 14325,
+        "name": "Naui hanappun goyang",
+        "eng_name": "My One and Only Cat",
+        "rus_name": "Мой единственный кот",
+        "cover": "nyYMQYILR9Yc",
+        "slug": "naui-hanappun-goyang",
+        "type_id": 5,
+        "created_at": "2019-07-20T16:33:40.000000Z",
+        "updated_at": "2022-04-01T18:19:14.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/naui-hanappun-goyang/cover/nyYMQYILR9Yc_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/naui-hanappun-goyang/cover/nyYMQYILR9Yc_thumb.jpg"
+        }
+      },
+      {
+        "id": 76059,
+        "name": "nune beomi seorida",
+        "eng_name": "Tiger in his eyes",
+        "rus_name": "Тигр в его глазах",
+        "cover": "EhoznLBJmJcX",
+        "slug": "nune-beomi-seorida",
+        "type_id": 5,
+        "created_at": "2021-05-08T05:50:43.000000Z",
+        "updated_at": "2022-04-01T18:19:16.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/nune-beomi-seorida/cover/EhoznLBJmJcX_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/nune-beomi-seorida/cover/EhoznLBJmJcX_thumb.jpg"
+        }
+      },
+      {
+        "id": 1282,
+        "name": "Boruto",
+        "eng_name": "Boruto: Naruto Next Generations",
+        "rus_name": "Боруто",
+        "cover": "g6Ri5ypD6gSN",
+        "slug": "boruto",
+        "type_id": 1,
+        "created_at": "2016-06-15T05:14:20.000000Z",
+        "updated_at": "2022-04-01T18:18:16.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/boruto/cover/g6Ri5ypD6gSN_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/boruto/cover/g6Ri5ypD6gSN_thumb.jpg"
+        }
+      },
+      {
+        "id": 4820,
+        "name": "On Doorstep",
+        "eng_name": "On Doorstep",
+        "rus_name": "На пороге",
+        "cover": "J5rdhpwAUzTu",
+        "slug": "on-doorstep",
+        "type_id": 1,
+        "created_at": "2018-07-12T14:01:09.000000Z",
+        "updated_at": "2022-04-01T18:18:29.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/on-doorstep/cover/J5rdhpwAUzTu_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/on-doorstep/cover/J5rdhpwAUzTu_thumb.jpg"
+        }
+      },
+      {
+        "id": 46846,
+        "name": "Sasil-eun naega jinjja yeossda",
+        "eng_name": "Actually, I was real",
+        "rus_name": "На самом деле я была настоящей",
+        "cover": "oT23FZGbAF6n",
+        "slug": "sasil-eun-naega-jinjja-yeossda",
+        "type_id": 5,
+        "created_at": "2020-09-10T08:20:01.000000Z",
+        "updated_at": "2022-04-01T18:19:14.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/sasil-eun-naega-jinjja-yeossda/cover/oT23FZGbAF6n_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/sasil-eun-naega-jinjja-yeossda/cover/oT23FZGbAF6n_thumb.jpg"
+        }
+      }
+    ],
+    "first_page_url": "http://mangalib.me/filterlist?page=1",
+    "from": 121,
+    "next_page_url": "http://mangalib.me/filterlist?page=4",
+    "path": "http://mangalib.me/filterlist",
+    "per_page": 60,
+    "prev_page_url": "http://mangalib.me/filterlist?page=2",
+    "to": 180
+  }
+}

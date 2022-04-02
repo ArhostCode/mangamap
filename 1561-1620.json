@@ -1,0 +1,974 @@
+{
+  "items": {
+    "current_page": 27,
+    "data": [
+      {
+        "id": 5624,
+        "name": "Bakemono to Kedamono",
+        "eng_name": "The Beast and the Monster",
+        "rus_name": "Чудовище и монстр",
+        "cover": "ACzoGGskQcyG",
+        "slug": "bakemono-to-kedamono",
+        "type_id": 1,
+        "created_at": "2018-08-13T09:45:11.000000Z",
+        "updated_at": "2022-04-01T18:16:14.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/bakemono-to-kedamono/cover/ACzoGGskQcyG_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/bakemono-to-kedamono/cover/ACzoGGskQcyG_thumb.jpg"
+        }
+      },
+      {
+        "id": 5928,
+        "name": "Sutenaide My Hero",
+        "eng_name": "",
+        "rus_name": "Не бросай меня, мой герой",
+        "cover": "s9uchVqCbeHb",
+        "slug": "sutenaide-my-hero",
+        "type_id": 1,
+        "created_at": "2018-08-21T16:01:18.000000Z",
+        "updated_at": "2022-04-01T18:04:20.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/sutenaide-my-hero/cover/s9uchVqCbeHb_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/sutenaide-my-hero/cover/s9uchVqCbeHb_thumb.jpg"
+        }
+      },
+      {
+        "id": 27497,
+        "name": "Fanpai monu zijiu jihua",
+        "eng_name": "The Evil Sorceress Plans to Survive!",
+        "rus_name": "План спасения злой колдуньи",
+        "cover": "OGtM4NvyVc80",
+        "slug": "fanpaimonvzijiujihua",
+        "type_id": 6,
+        "created_at": "2020-04-03T04:23:19.000000Z",
+        "updated_at": "2022-04-01T18:16:20.000000Z",
+        "type": "Маньхуа",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/fanpaimonvzijiujihua/cover/OGtM4NvyVc80_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/fanpaimonvzijiujihua/cover/OGtM4NvyVc80_thumb.jpg"
+        }
+      },
+      {
+        "id": 33250,
+        "name": "Love or Hate",
+        "eng_name": "Leobeu O-eo Heiteu",
+        "rus_name": "Любовь или ненависть",
+        "cover": "VQW6z1lGrJ",
+        "slug": "leobeu-o-eo-heiteu",
+        "type_id": 5,
+        "created_at": "2020-05-17T09:08:11.000000Z",
+        "updated_at": "2022-04-01T18:19:17.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/leobeu-o-eo-heiteu/cover/VQW6z1lGrJ_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/leobeu-o-eo-heiteu/cover/VQW6z1lGrJ_thumb.jpg"
+        }
+      },
+      {
+        "id": 105872,
+        "name": "Boku no nakama wa i sekai saikyō andeddo",
+        "eng_name": "My companion is the strongest undead in another world.",
+        "rus_name": "Я переместился в иной мир и получил сильнейший навык \"Бессмертия\"",
+        "cover": "wohjjpREtUwJ",
+        "slug": "boku-no-nakama-wa-i-sekai-saikyo-andeddo",
+        "type_id": 1,
+        "created_at": "2021-12-04T17:38:06.000000Z",
+        "updated_at": "2022-04-01T18:17:50.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/boku-no-nakama-wa-i-sekai-saikyo-andeddo/cover/wohjjpREtUwJ_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/boku-no-nakama-wa-i-sekai-saikyo-andeddo/cover/wohjjpREtUwJ_thumb.jpg"
+        }
+      },
+      {
+        "id": 8410,
+        "name": "Sonagi",
+        "eng_name": "Rain Shower",
+        "rus_name": "Ливень",
+        "cover": "cover",
+        "slug": "sonagi",
+        "type_id": 5,
+        "created_at": "2018-12-29T16:39:36.000000Z",
+        "updated_at": "2022-04-01T18:16:28.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/sonagi/cover/cover_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/sonagi/cover/cover_thumb.jpg"
+        }
+      },
+      {
+        "id": 41756,
+        "name": "Nakanai Hibari",
+        "eng_name": "Hibari Won't Cry",
+        "rus_name": "Хибари не будет плакать",
+        "cover": "2DbHRb4MV6kr",
+        "slug": "nakanai-hibari",
+        "type_id": 1,
+        "created_at": "2020-07-27T11:15:20.000000Z",
+        "updated_at": "2022-04-01T18:17:31.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/nakanai-hibari/cover/2DbHRb4MV6kr_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/nakanai-hibari/cover/2DbHRb4MV6kr_thumb.jpg"
+        }
+      },
+      {
+        "id": 45167,
+        "name": "Isekai de kyuutei kenshi hajimemasu",
+        "eng_name": "Isekai de kyuutei kenshi hajimemasu",
+        "rus_name": "Я стала придворным фехтовальщиком в другом мире",
+        "cover": "cgGEisC20YOx",
+        "slug": "isekai-de-kyuutei-kenshi-hajimemasu",
+        "type_id": 1,
+        "created_at": "2020-08-24T11:00:47.000000Z",
+        "updated_at": "2022-04-01T18:19:06.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/isekai-de-kyuutei-kenshi-hajimemasu/cover/cgGEisC20YOx_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/isekai-de-kyuutei-kenshi-hajimemasu/cover/cgGEisC20YOx_thumb.jpg"
+        }
+      },
+      {
+        "id": 6295,
+        "name": "Sono mono. Nochi ni... (NARIIE Shinichirou)",
+        "eng_name": "Позже этот человек... (NARIIE Shinichirou)",
+        "rus_name": "Позже этот человек... (NARIIE Shinichirou)",
+        "cover": "38BKLTcHPgcB",
+        "slug": "sono-mono-nochi-ni-nariie-shinichirou",
+        "type_id": 1,
+        "created_at": "2018-09-01T15:34:11.000000Z",
+        "updated_at": "2022-04-01T18:16:47.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/sono-mono-nochi-ni-nariie-shinichirou/cover/38BKLTcHPgcB_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/sono-mono-nochi-ni-nariie-shinichirou/cover/38BKLTcHPgcB_thumb.jpg"
+        }
+      },
+      {
+        "id": 20654,
+        "name": "Ichika, Bachika",
+        "eng_name": "Ichika, Bachika",
+        "rus_name": "Итика, Бачика",
+        "cover": "G5FKJqenCieZ",
+        "slug": "ichika-bachika",
+        "type_id": 1,
+        "created_at": "2020-01-05T18:22:13.000000Z",
+        "updated_at": "2022-04-01T18:18:04.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/ichika-bachika/cover/G5FKJqenCieZ_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/ichika-bachika/cover/G5FKJqenCieZ_thumb.jpg"
+        }
+      },
+      {
+        "id": 58161,
+        "name": "Ansatsu Skill de Isekai Saikyou - Renkinjutsu to Ansatsujutsu o Kiwameta Ore wa, Sekai o Kage kara Shihai Suru",
+        "eng_name": "The Strongest in Another World with Assassination Skills - I, Who Has Mastered Alchemy and Assassination, Dominate the World from Behind",
+        "rus_name": "Навыки ассасина сделают вас сильнейшим в другом мире. Я тот, кто овладел алхимией и навыками убийства, буду править миром из тени!",
+        "cover": "NlwPRryTjQfb",
+        "slug": "ansatsu-skill-de-isekai-saikyo",
+        "type_id": 1,
+        "created_at": "2021-01-01T08:32:14.000000Z",
+        "updated_at": "2022-04-01T18:14:50.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/ansatsu-skill-de-isekai-saikyo/cover/NlwPRryTjQfb_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/ansatsu-skill-de-isekai-saikyo/cover/NlwPRryTjQfb_thumb.jpg"
+        }
+      },
+      {
+        "id": 79030,
+        "name": "ibeon saeng-eun jedaelo kiwodeuligessseubnida, pyeha!",
+        "eng_name": "",
+        "rus_name": "Ваше Высочество, на этот раз я стану для вас хорошей матерью!",
+        "cover": "0PQQs9hMxsdc",
+        "slug": "ibeon-saeng-eun-jedaelo-kiwodeuligessseubnida-pyeha",
+        "type_id": 5,
+        "created_at": "2021-05-26T05:41:29.000000Z",
+        "updated_at": "2022-04-01T18:18:31.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/ibeon-saeng-eun-jedaelo-kiwodeuligessseubnida-pyeha/cover/0PQQs9hMxsdc_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/ibeon-saeng-eun-jedaelo-kiwodeuligessseubnida-pyeha/cover/0PQQs9hMxsdc_thumb.jpg"
+        }
+      },
+      {
+        "id": 1665,
+        "name": "Jisatsu Circle",
+        "eng_name": "Suicide Club",
+        "rus_name": "Клуб самоубийц",
+        "cover": "1ZZd7M1nTW15",
+        "slug": "jisatsu-circle",
+        "type_id": 1,
+        "created_at": "2016-11-12T02:17:26.000000Z",
+        "updated_at": "2022-04-01T18:18:04.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/jisatsu-circle/cover/1ZZd7M1nTW15_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/jisatsu-circle/cover/1ZZd7M1nTW15_thumb.jpg"
+        }
+      },
+      {
+        "id": 45523,
+        "name": "I became a zombie during the Apocalypse!",
+        "eng_name": "I became a zombie during the Apocalypse!",
+        "rus_name": "Я стал зомби во время апокалипсиса!",
+        "cover": "UwzmopjAKD23",
+        "slug": "i-became-a-zombie-during-the-apocalypse",
+        "type_id": 6,
+        "created_at": "2020-08-27T08:11:50.000000Z",
+        "updated_at": "2022-04-01T18:18:29.000000Z",
+        "type": "Маньхуа",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/i-became-a-zombie-during-the-apocalypse/cover/UwzmopjAKD23_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/i-became-a-zombie-during-the-apocalypse/cover/UwzmopjAKD23_thumb.jpg"
+        }
+      },
+      {
+        "id": 1520,
+        "name": "Coffin Jackson",
+        "eng_name": "",
+        "rus_name": "Гроб Джексона",
+        "cover": "aB8Mc3CeSnXA",
+        "slug": "coffin-jackson",
+        "type_id": 5,
+        "created_at": "2016-09-22T23:32:42.000000Z",
+        "updated_at": "2022-04-01T18:18:39.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/coffin-jackson/cover/aB8Mc3CeSnXA_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/coffin-jackson/cover/aB8Mc3CeSnXA_thumb.jpg"
+        }
+      },
+      {
+        "id": 5685,
+        "name": "Mou Karui Yandere de Ii kara Mote Taiwa",
+        "eng_name": "I'm Fine Even if She's a Little Bit Yandere, I Just Wanna Be Popular",
+        "rus_name": "Да плевать мне, если она чуток яндере, я просто хочу нравиться девушкам",
+        "cover": "cover",
+        "slug": "mou-karui-yandere-de-ii-kara-mote-taiwa",
+        "type_id": 1,
+        "created_at": "2018-08-14T15:29:55.000000Z",
+        "updated_at": "2022-04-01T18:16:02.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/mou-karui-yandere-de-ii-kara-mote-taiwa/cover/cover_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/mou-karui-yandere-de-ii-kara-mote-taiwa/cover/cover_thumb.jpg"
+        }
+      },
+      {
+        "id": 23477,
+        "name": "Be my guest",
+        "eng_name": "Be my guest",
+        "rus_name": "Будь моей гостьей",
+        "cover": "MFM1RgLmZ6WI",
+        "slug": "be-my-guest",
+        "type_id": 5,
+        "created_at": "2020-02-14T08:41:20.000000Z",
+        "updated_at": "2022-04-01T18:18:00.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/be-my-guest/cover/MFM1RgLmZ6WI_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/be-my-guest/cover/MFM1RgLmZ6WI_thumb.jpg"
+        }
+      },
+      {
+        "id": 9019,
+        "name": "Osuppai Oshiri BL",
+        "eng_name": "Dear My Distiny",
+        "rus_name": "Моя Дорогая Судьба",
+        "cover": "cover",
+        "slug": "osuppai-oshiri-bl",
+        "type_id": 1,
+        "created_at": "2019-01-22T06:39:31.000000Z",
+        "updated_at": "2022-04-01T18:17:59.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/osuppai-oshiri-bl/cover/cover_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/osuppai-oshiri-bl/cover/cover_thumb.jpg"
+        }
+      },
+      {
+        "id": 5523,
+        "name": "Lenteu boi",
+        "eng_name": "Rent Boy",
+        "rus_name": "Мальчик лёгкого поведения",
+        "cover": "cover",
+        "slug": "lenteu-boi",
+        "type_id": 5,
+        "created_at": "2018-08-08T13:55:08.000000Z",
+        "updated_at": "2022-04-01T18:12:40.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/lenteu-boi/cover/cover_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/lenteu-boi/cover/cover_thumb.jpg"
+        }
+      },
+      {
+        "id": 5122,
+        "name": "meongmeongnyangnyang",
+        "eng_name": "Lick Me, Like Me",
+        "rus_name": "Приют для любовников",
+        "cover": "cover",
+        "slug": "shelter-for-lovers",
+        "type_id": 5,
+        "created_at": "2018-07-25T14:48:31.000000Z",
+        "updated_at": "2022-04-01T18:17:04.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/shelter-for-lovers/cover/cover_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/shelter-for-lovers/cover/cover_thumb.jpg"
+        }
+      },
+      {
+        "id": 4797,
+        "name": "Isekai Yakkyoku",
+        "eng_name": "Parallel World Pharmacy",
+        "rus_name": "Аптека в ином мире",
+        "cover": "rCSSh1zAUQGa",
+        "slug": "isekai-yakkyoku",
+        "type_id": 1,
+        "created_at": "2018-07-11T09:42:37.000000Z",
+        "updated_at": "2022-04-01T18:17:57.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/isekai-yakkyoku/cover/rCSSh1zAUQGa_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/isekai-yakkyoku/cover/rCSSh1zAUQGa_thumb.jpg"
+        }
+      },
+      {
+        "id": 3798,
+        "name": "Isekai Maou to Shoukan Shoujo Dorei Majutsu",
+        "eng_name": "The King of Darkness Another World Story: Slave Magic",
+        "rus_name": "История о повелителе тьмы из другого мира и магии порабощения",
+        "cover": "THUtwe2TY8qx",
+        "slug": "isekai-maou-to-shoukan-shoujo-dorei-majutsu",
+        "type_id": 1,
+        "created_at": "2018-01-26T11:24:38.000000Z",
+        "updated_at": "2022-04-01T18:18:46.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/isekai-maou-to-shoukan-shoujo-dorei-majutsu/cover/THUtwe2TY8qx_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/isekai-maou-to-shoukan-shoujo-dorei-majutsu/cover/THUtwe2TY8qx_thumb.jpg"
+        }
+      },
+      {
+        "id": 22475,
+        "name": "Zhima yu Migao",
+        "eng_name": "Sesame and Ricecake",
+        "rus_name": "Рисовая булочка с... Кунжутом.",
+        "cover": "1bCJ88H3VfMs",
+        "slug": "sesame-and-ricecake-prologue",
+        "type_id": 6,
+        "created_at": "2020-02-01T15:49:53.000000Z",
+        "updated_at": "2022-04-01T18:19:27.000000Z",
+        "type": "Маньхуа",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/sesame-and-ricecake-prologue/cover/1bCJ88H3VfMs_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/sesame-and-ricecake-prologue/cover/1bCJ88H3VfMs_thumb.jpg"
+        }
+      },
+      {
+        "id": 30485,
+        "name": "Shen Ze",
+        "eng_name": "",
+        "rus_name": "Божья милость",
+        "cover": "2RLItTPhfIqc",
+        "slug": "shen-ze-kua",
+        "type_id": 6,
+        "created_at": "2020-04-27T17:16:20.000000Z",
+        "updated_at": "2022-04-01T18:06:28.000000Z",
+        "type": "Маньхуа",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/shen-ze-kua/cover/2RLItTPhfIqc_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/shen-ze-kua/cover/2RLItTPhfIqc_thumb.jpg"
+        }
+      },
+      {
+        "id": 49427,
+        "name": "hwangnyeonim i saaghasyeo",
+        "eng_name": "The princess is evil",
+        "rus_name": "Злая принцесса",
+        "cover": "EXE8y6zKYWVE",
+        "slug": "hwangnyeo-nim-i-saag-basyeo",
+        "type_id": 5,
+        "created_at": "2020-10-07T01:12:01.000000Z",
+        "updated_at": "2022-04-01T18:19:05.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/hwangnyeo-nim-i-saag-basyeo/cover/EXE8y6zKYWVE_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/hwangnyeo-nim-i-saag-basyeo/cover/EXE8y6zKYWVE_thumb.jpg"
+        }
+      },
+      {
+        "id": 11892,
+        "name": "Mo Shi Wei Wang",
+        "eng_name": "King of Apocalypse",
+        "rus_name": "Король Апокалипсиса",
+        "cover": "LhG0Tkw9ZIOK",
+        "slug": "mo-shi-wei-wang",
+        "type_id": 6,
+        "created_at": "2019-04-26T10:25:15.000000Z",
+        "updated_at": "2022-04-01T18:14:25.000000Z",
+        "type": "Маньхуа",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/mo-shi-wei-wang/cover/LhG0Tkw9ZIOK_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/mo-shi-wei-wang/cover/LhG0Tkw9ZIOK_thumb.jpg"
+        }
+      },
+      {
+        "id": 30890,
+        "name": "Cheong Sagwa Nakwon",
+        "eng_name": "Green Apple Paradise",
+        "rus_name": "Зеленый яблочный рай",
+        "cover": "CsvqGizZPLZj",
+        "slug": "qing-pingguo-leyuan",
+        "type_id": 5,
+        "created_at": "2020-04-30T14:27:55.000000Z",
+        "updated_at": "2022-04-01T18:18:08.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/qing-pingguo-leyuan/cover/CsvqGizZPLZj_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/qing-pingguo-leyuan/cover/CsvqGizZPLZj_thumb.jpg"
+        }
+      },
+      {
+        "id": 6744,
+        "name": "Remnant: Kemonohito Omegaverse",
+        "eng_name": "Remnant: Jujin Omegaverse",
+        "rus_name": "История ещё одного зверя",
+        "cover": "cover",
+        "slug": "remnant-kemonohito-omegaverseistoriya-eshche-odnogo-zverya-omegavers",
+        "type_id": 1,
+        "created_at": "2018-09-29T15:02:48.000000Z",
+        "updated_at": "2022-04-01T18:15:06.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/remnant-kemonohito-omegaverseistoriya-eshche-odnogo-zverya-omegavers/cover/cover_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/remnant-kemonohito-omegaverseistoriya-eshche-odnogo-zverya-omegavers/cover/cover_thumb.jpg"
+        }
+      },
+      {
+        "id": 37075,
+        "name": "Isekai Ni Tondara Rival Ni Hameraretemashita!?",
+        "eng_name": "I'm Banging My Rival in a Parallel World!?",
+        "rus_name": "Я занимаюсь любовью  со своим соперником в параллельном мире!?",
+        "cover": "JRojnGdSSNSm",
+        "slug": "isekai-ni-tondara-rival-ni-hamerarete-mashitai",
+        "type_id": 1,
+        "created_at": "2020-06-15T18:33:20.000000Z",
+        "updated_at": "2022-04-01T18:18:21.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/isekai-ni-tondara-rival-ni-hamerarete-mashitai/cover/JRojnGdSSNSm_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/isekai-ni-tondara-rival-ni-hamerarete-mashitai/cover/JRojnGdSSNSm_thumb.jpg"
+        }
+      },
+      {
+        "id": 20024,
+        "name": "Imouto no Ane",
+        "eng_name": "Little Sister’s Elder Sister",
+        "rus_name": "Старшая сестра младшей сестрички",
+        "cover": "7eXSDrnsufxZ",
+        "slug": "imouto-no-ane",
+        "type_id": 1,
+        "created_at": "2019-12-24T10:09:41.000000Z",
+        "updated_at": "2022-04-01T18:17:30.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/imouto-no-ane/cover/7eXSDrnsufxZ_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/imouto-no-ane/cover/7eXSDrnsufxZ_thumb.jpg"
+        }
+      },
+      {
+        "id": 15199,
+        "name": "Attack on School Castes",
+        "eng_name": "Attack on School Castes",
+        "rus_name": "Атака школьных каст",
+        "cover": "Cfx0q5bHiuFR",
+        "slug": "attack-on-school-castes",
+        "type_id": 1,
+        "created_at": "2019-08-08T14:55:18.000000Z",
+        "updated_at": "2022-04-01T18:19:30.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/attack-on-school-castes/cover/Cfx0q5bHiuFR_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/attack-on-school-castes/cover/Cfx0q5bHiuFR_thumb.jpg"
+        }
+      },
+      {
+        "id": 24759,
+        "name": "Wo neng kandao chenggonglü",
+        "eng_name": "I Can See The Success Rate",
+        "rus_name": "Я Вижу Процент Успеха",
+        "cover": "c5M781MDICoH",
+        "slug": "wo-keyi-kandao-chenggong",
+        "type_id": 6,
+        "created_at": "2020-03-03T08:40:43.000000Z",
+        "updated_at": "2022-04-01T18:17:51.000000Z",
+        "type": "Маньхуа",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/wo-keyi-kandao-chenggong/cover/c5M781MDICoH_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/wo-keyi-kandao-chenggong/cover/c5M781MDICoH_thumb.jpg"
+        }
+      },
+      {
+        "id": 34671,
+        "name": "Doukutsuou kara hajimeru Rakuen Raifu",
+        "eng_name": "The king of cave will live a paradise life",
+        "rus_name": "Король пещеры будет жить райской жизнью",
+        "cover": "1c6uJ8w4U093",
+        "slug": "doukutsuou-kara-hajimeru-rakuen-raifu",
+        "type_id": 1,
+        "created_at": "2020-05-28T10:32:30.000000Z",
+        "updated_at": "2022-04-01T18:19:30.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/doukutsuou-kara-hajimeru-rakuen-raifu/cover/1c6uJ8w4U093_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/doukutsuou-kara-hajimeru-rakuen-raifu/cover/1c6uJ8w4U093_thumb.jpg"
+        }
+      },
+      {
+        "id": 54842,
+        "name": "Eojjeomyeon bomae muldeulda",
+        "eng_name": "Incidentally Dyed By Spring's Love",
+        "rus_name": "А может, виновата весна...",
+        "cover": "rnAXCA19fOyO",
+        "slug": "eojjeomyeon-bomae-muldeulda",
+        "type_id": 5,
+        "created_at": "2020-11-30T08:13:58.000000Z",
+        "updated_at": "2022-04-01T18:17:40.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/eojjeomyeon-bomae-muldeulda/cover/rnAXCA19fOyO_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/eojjeomyeon-bomae-muldeulda/cover/rnAXCA19fOyO_thumb.jpg"
+        }
+      },
+      {
+        "id": 38142,
+        "name": "hajijeom",
+        "eng_name": "Summer Solstice Point",
+        "rus_name": "Момент летнего солнцестояния",
+        "cover": "uMMEvhNWHJzr",
+        "slug": "summer-solstice-point",
+        "type_id": 5,
+        "created_at": "2020-06-24T15:34:25.000000Z",
+        "updated_at": "2022-04-01T18:19:07.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/summer-solstice-point/cover/uMMEvhNWHJzr_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/summer-solstice-point/cover/uMMEvhNWHJzr_thumb.jpg"
+        }
+      },
+      {
+        "id": 40622,
+        "name": "geu agassiui jibsanim",
+        "eng_name": "The Lady's Butler",
+        "rus_name": "Дворецкий для леди",
+        "cover": "UKnwizShrM4d",
+        "slug": "geu-agassiui-jibsanim",
+        "type_id": 5,
+        "created_at": "2020-07-17T11:14:52.000000Z",
+        "updated_at": "2022-04-01T18:13:56.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/geu-agassiui-jibsanim/cover/UKnwizShrM4d_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/geu-agassiui-jibsanim/cover/UKnwizShrM4d_thumb.jpg"
+        }
+      },
+      {
+        "id": 11260,
+        "name": "Kou 2 ni Time Leaped Shita Ore ga, Touji suki Datta Sensei ni Kokutta Kekka",
+        "eng_name": "The Results From When I Time Leaped to My Second Year of High School and Confessed to the Teacher I Liked at the Time",
+        "rus_name": "Результат того, что я вернулся назад во времени на второй год старшей школы и признался в любви учительнице, которая мне нравилась в то время",
+        "cover": "KVXfYw1zZruA",
+        "slug": "kou-2-ni-time-leaped-shita-ore-ga-touji-suki-datta-sensei-ni-kokutta-kekka",
+        "type_id": 1,
+        "created_at": "2019-04-05T16:21:21.000000Z",
+        "updated_at": "2022-04-01T18:19:35.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/kou-2-ni-time-leaped-shita-ore-ga-touji-suki-datta-sensei-ni-kokutta-kekka/cover/KVXfYw1zZruA_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/kou-2-ni-time-leaped-shita-ore-ga-touji-suki-datta-sensei-ni-kokutta-kekka/cover/KVXfYw1zZruA_thumb.jpg"
+        }
+      },
+      {
+        "id": 8310,
+        "name": "The Fable",
+        "eng_name": "The Fable",
+        "rus_name": "Басня",
+        "cover": "ehoYObcDAVbS",
+        "slug": "the-fable",
+        "type_id": 1,
+        "created_at": "2018-12-24T08:41:04.000000Z",
+        "updated_at": "2022-04-01T18:19:35.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/the-fable/cover/ehoYObcDAVbS_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/the-fable/cover/ehoYObcDAVbS_thumb.jpg"
+        }
+      },
+      {
+        "id": 4264,
+        "name": "Killing Morph",
+        "eng_name": "Killing Morph",
+        "rus_name": "Убийственные метаморфозы",
+        "cover": "cover",
+        "slug": "killing-morph",
+        "type_id": 1,
+        "created_at": "2018-04-24T14:17:03.000000Z",
+        "updated_at": "2022-04-01T18:16:39.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/killing-morph/cover/cover_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/killing-morph/cover/cover_thumb.jpg"
+        }
+      },
+      {
+        "id": 11317,
+        "name": "Gong Heon Ja",
+        "eng_name": "Amateur hunter",
+        "rus_name": "Охотник-любитель",
+        "cover": "lyO7u8iwF9",
+        "slug": "amateur-hunter",
+        "type_id": 5,
+        "created_at": "2019-04-07T03:58:33.000000Z",
+        "updated_at": "2022-04-01T18:18:21.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/amateur-hunter/cover/lyO7u8iwF9_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/amateur-hunter/cover/lyO7u8iwF9_thumb.jpg"
+        }
+      },
+      {
+        "id": 4966,
+        "name": "Ghost's Wife",
+        "eng_name": "Gwigagsi",
+        "rus_name": "Невеста духа",
+        "cover": "cover",
+        "slug": "ghosts-wife",
+        "type_id": 5,
+        "created_at": "2018-07-20T11:49:41.000000Z",
+        "updated_at": "2022-04-01T18:18:50.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/ghosts-wife/cover/cover_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/ghosts-wife/cover/cover_thumb.jpg"
+        }
+      },
+      {
+        "id": 8317,
+        "name": "Youchi na Koi wo Dou shiyou",
+        "eng_name": "What to do With a Childish Love?",
+        "rus_name": "Что делать с детской любовью?",
+        "cover": "cover",
+        "slug": "youchi-na-koi-wo-dou-shiyou",
+        "type_id": 1,
+        "created_at": "2018-12-24T10:10:04.000000Z",
+        "updated_at": "2022-04-01T18:13:48.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/youchi-na-koi-wo-dou-shiyou/cover/cover_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/youchi-na-koi-wo-dou-shiyou/cover/cover_thumb.jpg"
+        }
+      },
+      {
+        "id": 26491,
+        "name": "Matsuyoi no Oni",
+        "eng_name": "",
+        "rus_name": "С демоном в ночи",
+        "cover": "YmoVICmC3Qxs",
+        "slug": "matsuyoi-no-oni",
+        "type_id": 1,
+        "created_at": "2020-03-25T12:48:31.000000Z",
+        "updated_at": "2022-04-01T18:13:00.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/matsuyoi-no-oni/cover/YmoVICmC3Qxs_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/matsuyoi-no-oni/cover/YmoVICmC3Qxs_thumb.jpg"
+        }
+      },
+      {
+        "id": 8623,
+        "name": "Futari no Musuko ni Nerawarete Imasu",
+        "eng_name": "I'm Being Targeted by My Two Sons",
+        "rus_name": "Мишень для близнецов",
+        "cover": "kxyPQ8aSShU7",
+        "slug": "lm-being-targeted-by-my-to",
+        "type_id": 1,
+        "created_at": "2019-01-06T11:45:47.000000Z",
+        "updated_at": "2022-04-01T18:13:50.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/lm-being-targeted-by-my-to/cover/kxyPQ8aSShU7_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/lm-being-targeted-by-my-to/cover/kxyPQ8aSShU7_thumb.jpg"
+        }
+      },
+      {
+        "id": 4847,
+        "name": "Henkyou no Roukishi - Bard Loen",
+        "eng_name": "The Old Knight in the Border - Bard Loen",
+        "rus_name": "Старый рыцарь из приграничных земель — Бард Лоен",
+        "cover": "NHFZsoMmQ6RB",
+        "slug": "old-knight-in-frontier",
+        "type_id": 1,
+        "created_at": "2018-07-13T11:20:33.000000Z",
+        "updated_at": "2022-04-01T18:14:14.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/old-knight-in-frontier/cover/NHFZsoMmQ6RB_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/old-knight-in-frontier/cover/NHFZsoMmQ6RB_thumb.jpg"
+        }
+      },
+      {
+        "id": 7454,
+        "name": "Oh my! Hotel!",
+        "eng_name": "",
+        "rus_name": "Однажды в отеле",
+        "cover": "cover",
+        "slug": "oh-my-hotel",
+        "type_id": 5,
+        "created_at": "2018-11-10T07:15:34.000000Z",
+        "updated_at": "2022-04-01T18:16:36.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/oh-my-hotel/cover/cover_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/oh-my-hotel/cover/cover_thumb.jpg"
+        }
+      },
+      {
+        "id": 7274,
+        "name": "Wo Bei Fei Chai",
+        "eng_name": "I Was Trash",
+        "rus_name": "Я был ничтожеством",
+        "cover": "3WaAnmMTZcBK",
+        "slug": "wo-ben-fei-chai",
+        "type_id": 6,
+        "created_at": "2018-11-03T01:07:16.000000Z",
+        "updated_at": "2022-04-01T18:13:56.000000Z",
+        "type": "Маньхуа",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/wo-ben-fei-chai/cover/3WaAnmMTZcBK_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/wo-ben-fei-chai/cover/3WaAnmMTZcBK_thumb.jpg"
+        }
+      },
+      {
+        "id": 27050,
+        "name": "Dragon boys' love affairs",
+        "eng_name": "Let's Have a Baby Dragon",
+        "rus_name": "Давай заведем ребенка!!",
+        "cover": "L44Qt1s1Yo5u",
+        "slug": "dragon-boys-love-affairs",
+        "type_id": 6,
+        "created_at": "2020-03-30T11:48:08.000000Z",
+        "updated_at": "2022-04-01T18:18:58.000000Z",
+        "type": "Маньхуа",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/dragon-boys-love-affairs/cover/L44Qt1s1Yo5u_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/dragon-boys-love-affairs/cover/L44Qt1s1Yo5u_thumb.jpg"
+        }
+      },
+      {
+        "id": 4606,
+        "name": "Nu Juren Ye Yao Tan Lian'ai",
+        "eng_name": "Tall Girls Can Fall In Love Too",
+        "rus_name": "Великанши тоже хотят отношений!",
+        "cover": "pKycl9v6SRSy",
+        "slug": "nue-juren-ye-yao-tan-lianai-kua",
+        "type_id": 6,
+        "created_at": "2018-06-20T10:46:54.000000Z",
+        "updated_at": "2022-04-01T18:10:55.000000Z",
+        "type": "Маньхуа",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/nue-juren-ye-yao-tan-lianai-kua/cover/pKycl9v6SRSy_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/nue-juren-ye-yao-tan-lianai-kua/cover/pKycl9v6SRSy_thumb.jpg"
+        }
+      },
+      {
+        "id": 16787,
+        "name": "Sonyeoneul Wirohaejwo",
+        "eng_name": "A Shoulder To Cry On",
+        "rus_name": "Плечо, чтобы поплакаться",
+        "cover": "dg8IXB7S2JSG",
+        "slug": "let-me-comfort-the-boy",
+        "type_id": 5,
+        "created_at": "2019-09-25T07:08:19.000000Z",
+        "updated_at": "2022-04-01T18:16:39.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/let-me-comfort-the-boy/cover/dg8IXB7S2JSG_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/let-me-comfort-the-boy/cover/dg8IXB7S2JSG_thumb.jpg"
+        }
+      },
+      {
+        "id": 4548,
+        "name": "Save Me",
+        "eng_name": "Save Me",
+        "rus_name": "Спаси Меня",
+        "cover": "az89Fg686z6z",
+        "slug": "save-me",
+        "type_id": 5,
+        "created_at": "2018-06-15T02:02:19.000000Z",
+        "updated_at": "2022-04-01T18:18:47.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/save-me/cover/az89Fg686z6z_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/save-me/cover/az89Fg686z6z_thumb.jpg"
+        }
+      },
+      {
+        "id": 2900,
+        "name": "Yoo Hog-ui Gi Sool",
+        "eng_name": "Skill of Lure",
+        "rus_name": "Искусство соблазнения",
+        "cover": "1P02Kyq52Emj",
+        "slug": "yoo-hogui-gi-sool",
+        "type_id": 5,
+        "created_at": "2017-08-04T15:00:11.000000Z",
+        "updated_at": "2022-04-01T18:12:05.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/yoo-hogui-gi-sool/cover/1P02Kyq52Emj_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/yoo-hogui-gi-sool/cover/1P02Kyq52Emj_thumb.jpg"
+        }
+      },
+      {
+        "id": 8810,
+        "name": "Haikyuu!! dj – Limonata",
+        "eng_name": "|  Haikyuu!! dj – Limonata",
+        "rus_name": "Лимонад!",
+        "cover": "cover",
+        "slug": "haikyuu-dj-limonata",
+        "type_id": 1,
+        "created_at": "2019-01-13T07:58:05.000000Z",
+        "updated_at": "2022-04-01T18:00:03.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/haikyuu-dj-limonata/cover/cover_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/haikyuu-dj-limonata/cover/cover_thumb.jpg"
+        }
+      },
+      {
+        "id": 6005,
+        "name": "Fukushuu wo chikatta shironeko wa ryuuou no hiza no jou de damin wo musaboru",
+        "eng_name": "A Vengeful White Cat Lounges Around on the Dragon King’s Lap",
+        "rus_name": "Белая кошка, поклявшаяся отомстить, просто отдыхала на коленях дракона",
+        "cover": "xwVqDjw0gRbx",
+        "slug": "fukushuu-wo-chikatta-shironeko-wa-ryuuou-no-hiza-no-jou-de-damin-wo-musaboru",
+        "type_id": 1,
+        "created_at": "2018-08-24T07:21:27.000000Z",
+        "updated_at": "2022-04-01T18:17:53.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/fukushuu-wo-chikatta-shironeko-wa-ryuuou-no-hiza-no-jou-de-damin-wo-musaboru/cover/xwVqDjw0gRbx_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/fukushuu-wo-chikatta-shironeko-wa-ryuuou-no-hiza-no-jou-de-damin-wo-musaboru/cover/xwVqDjw0gRbx_thumb.jpg"
+        }
+      },
+      {
+        "id": 6962,
+        "name": "Imawa no Kuni no Alice",
+        "eng_name": "Alice in Borderland",
+        "rus_name": "Алиса в Пограничье",
+        "cover": "Klu0kiVYXiLU",
+        "slug": "imawa-no-kuni-no-alice",
+        "type_id": 1,
+        "created_at": "2018-10-11T13:13:58.000000Z",
+        "updated_at": "2022-04-01T18:18:08.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/imawa-no-kuni-no-alice/cover/Klu0kiVYXiLU_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/imawa-no-kuni-no-alice/cover/Klu0kiVYXiLU_thumb.jpg"
+        }
+      },
+      {
+        "id": 9703,
+        "name": "Senpai ga Urusai Kouhai no Hanashi",
+        "eng_name": "My Senpai is Annoying",
+        "rus_name": "Мой сэмпай раздражает!",
+        "cover": "8R86Q2i7wWL5",
+        "slug": "senpai-ga-urusai-kouhai-no-hanashi",
+        "type_id": 1,
+        "created_at": "2019-02-16T17:10:56.000000Z",
+        "updated_at": "2022-04-01T18:17:02.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/senpai-ga-urusai-kouhai-no-hanashi/cover/8R86Q2i7wWL5_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/senpai-ga-urusai-kouhai-no-hanashi/cover/8R86Q2i7wWL5_thumb.jpg"
+        }
+      },
+      {
+        "id": 9655,
+        "name": "War-Ble",
+        "eng_name": "Warble",
+        "rus_name": "Варбл",
+        "cover": "kVyWidlOk7pr",
+        "slug": "Warble",
+        "type_id": 5,
+        "created_at": "2019-02-15T07:01:48.000000Z",
+        "updated_at": "2022-04-01T18:17:25.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/Warble/cover/kVyWidlOk7pr_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/Warble/cover/kVyWidlOk7pr_thumb.jpg"
+        }
+      },
+      {
+        "id": 20804,
+        "name": "19 Sai no Porno Endeavor",
+        "eng_name": "19 Sai no Porno Endeavor",
+        "rus_name": "19-летка познает секс",
+        "cover": "cover",
+        "slug": "19-sai-no-porno-endeavor",
+        "type_id": 1,
+        "created_at": "2020-01-07T18:00:00.000000Z",
+        "updated_at": "2022-04-01T18:18:12.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/19-sai-no-porno-endeavor/cover/cover_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/19-sai-no-porno-endeavor/cover/cover_thumb.jpg"
+        }
+      },
+      {
+        "id": 49732,
+        "name": "Kimetsu no Yaiba: Rengoku Kyoujurou Gaiden",
+        "eng_name": "Demon Slayer: Rengoku",
+        "rus_name": "Клинок, рассекающий демонов: Ренгоку Кёджуро гайден",
+        "cover": "9f4kO9r0ubOW",
+        "slug": "demon-slayer-kimetsu-no-yaiba",
+        "type_id": 1,
+        "created_at": "2020-10-11T02:49:59.000000Z",
+        "updated_at": "2022-04-01T18:19:39.000000Z",
+        "type": "Манга",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/demon-slayer-kimetsu-no-yaiba/cover/9f4kO9r0ubOW_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/demon-slayer-kimetsu-no-yaiba/cover/9f4kO9r0ubOW_thumb.jpg"
+        }
+      },
+      {
+        "id": 56147,
+        "name": "Baghanhuui maenijeo",
+        "eng_name": "Park Hanhoo’s Manager",
+        "rus_name": "Менеджер Пак Хан Ху",
+        "cover": "7tgHpZuznZX2",
+        "slug": "baghanhuui-maenijeo",
+        "type_id": 5,
+        "created_at": "2020-12-11T13:55:02.000000Z",
+        "updated_at": "2022-04-01T18:18:17.000000Z",
+        "type": "Манхва",
+        "covers": {
+          "default": "https://staticlib.me/uploads/cover/baghanhuui-maenijeo/cover/7tgHpZuznZX2_250x350.jpg",
+          "thumbnail": "https://staticlib.me/uploads/cover/baghanhuui-maenijeo/cover/7tgHpZuznZX2_thumb.jpg"
+        }
+      }
+    ],
+    "first_page_url": "http://mangalib.me/filterlist?page=1",
+    "from": 1561,
+    "next_page_url": "http://mangalib.me/filterlist?page=28",
+    "path": "http://mangalib.me/filterlist",
+    "per_page": 60,
+    "prev_page_url": "http://mangalib.me/filterlist?page=26",
+    "to": 1620
+  }
+}

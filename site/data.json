@@ -1,0 +1,4185 @@
+{
+  "nodes": [
+    {
+      "id": "Поднятие уровня в одиночку",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/i-alone-level-up/cover/SiIlhsGKHZR5_250x350.jpg"
+      }
+    },
+    {
+      "id": "Легендарный Лунный Скульптор",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/legendary-moonlight-sculptor/cover/3E9QtEWZv6yb_250x350.jpg"
+      }
+    },
+    {
+      "id": "Возвращение игрока"
+    },
+    {
+      "id": "Воин-скелет не смог защитить подземелье",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/skeleton-soldier-couldnt-protect-the-dungeon/cover/GvPOxtSfzMTd_250x350.jpg"
+      }
+    },
+    {
+      "id": "Всеведущий читатель"
+    },
+    {
+      "id": "Миром правят власть и деньги"
+    },
+    {
+      "id": "Мой папа слишком сильный"
+    },
+    {
+      "id": "BJ Алекс",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/bj-alex/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Даже если ты меня не любишь",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/nareul-saranhaji-anhado/cover/On50UWIBRZW4_250x350.jpg"
+      }
+    },
+    {
+      "id": "Если ты так сильно меня Ненавидишь"
+    },
+    {
+      "id": "Такой же как ты",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/a-guy-like-you/cover/Sj6G5rmvVSi8_250x350.jpg"
+      }
+    },
+    {
+      "id": "Сладкие деньки яойщиков"
+    },
+    {
+      "id": "Мой подчинённый",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/my-suha-/cover/dqgBGSRnYOZE_250x350.jpg"
+      }
+    },
+    {
+      "id": "Социальная температура"
+    },
+    {
+      "id": "Математика",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/matematika/cover/XLegcO4sjN76_250x350.jpg"
+      }
+    },
+    {
+      "id": "Биологические факты"
+    },
+    {
+      "id": "Livers"
+    },
+    {
+      "id": "Химические fuckты"
+    },
+    {
+      "id": "Берсерк",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/berserk/cover/WQGdZFSMqQ2S_250x350.jpg"
+      }
+    },
+    {
+      "id": "1000 признаков того, что ты не очень хороший шахматист (Новелла) / обучение шахматам"
+    },
+    {
+      "id": "Ты Здесь",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/you-are-here/cover/CeTfUopCwfqa_250x350.jpg"
+      }
+    },
+    {
+      "id": "В начале была ложь",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/cong-huang-yan-kai-shi/cover/gG9dd3Rtkj_250x350.jpg"
+      }
+    },
+    {
+      "id": "Даос x Контракт с демоном"
+    },
+    {
+      "id": "Ты будешь меня ненавидеть"
+    },
+    {
+      "id": "18 Без Ограничения"
+    },
+    {
+      "id": "Язык жестов",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/suhwa/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "19 Дней - Однажды",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/19-tian/cover/mqYDB362UKNg_250x350.jpg"
+      }
+    },
+    {
+      "id": "Неприкасаемый"
+    },
+    {
+      "id": "По кругу"
+    },
+    {
+      "id": "Мегуми и Цугуми",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/megumi-to-tsugumi/cover/lqmQDxcpDZvB_250x350.jpg"
+      }
+    },
+    {
+      "id": "Послезавтра"
+    },
+    {
+      "id": "Никогда не пойму",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/never_understand/cover/bGxtJYj8wwfc_250x350.jpg"
+      }
+    },
+    {
+      "id": "Насыщенная жизнь"
+    },
+    {
+      "id": "Прелести садизма: Другая история А",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/sadisticbb/cover/KaBPTs0rjZk5_250x350.jpg"
+      }
+    },
+    {
+      "id": "Тайная жизнь знатной дамы"
+    },
+    {
+      "id": "Есть ли шанс"
+    },
+    {
+      "id": "Хрустящая любовь"
+    },
+    {
+      "id": "Мой секретарь - демон"
+    },
+    {
+      "id": "Горько-сладкий кон-панна"
+    },
+    {
+      "id": "Эта фарфоровая кукла влюбилась",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/sono-bisque-doll-wa-koi-wo-suru/cover/0jFWG8EV9kfV_250x350.jpg"
+      }
+    },
+    {
+      "id": "Убить Сталкера",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/killing-stalking/cover/UyMr8yBtTGA7_250x350.jpg"
+      }
+    },
+    {
+      "id": "Заговор войны в мире Мэри Сью"
+    },
+    {
+      "id": "Моритат",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/moritat/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Змеиный язык",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/snakes-tongue/cover/Vr4wWW3uV8qr_250x350.jpg"
+      }
+    },
+    {
+      "id": "До свидания, хозяин"
+    },
+    {
+      "id": "История Нашей Жизни"
+    },
+    {
+      "id": "Воспитание хозяина",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/juin-sajeong/cover/VPiLp4EDKrZe_250x350.jpg"
+      }
+    },
+    {
+      "id": "Обаятельный  убийца Ллевеллин приглашает на ужин",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/salinma-rwellrin-cin-nangmangergin-jeongchan/cover/K1MX80VYxYDg_250x350.jpg"
+      }
+    },
+    {
+      "id": "Ю Су, это есть нельзя!",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/mr-yu-su-dont-eat-that/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Расплата",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/paid/cover/kDEOfXhn0Uhr_250x350.jpg"
+      }
+    },
+    {
+      "id": "Парень-Ракушка / Жемчужный Мальчик",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/jogaesonyeon/cover/Uh7IaiNAFVzj_250x350.jpg"
+      }
+    },
+    {
+      "id": "Просьба уйти"
+    },
+    {
+      "id": "Вишня цветет после зимы",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/gyeoul-jina-beojkkoch/cover/7X1VCS8vg7iu_250x350.jpg"
+      }
+    },
+    {
+      "id": "Ноги, что не могут идти",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/legs-which-cannot-walk/cover/ua9WhvxGBP6W_250x350.jpg"
+      }
+    },
+    {
+      "id": "Секрет работника К",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/clerk-k-secret/cover/b4WUFU8LqY_250x350.jpg"
+      }
+    },
+    {
+      "id": "Втрескайся в меня",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/crash-into-me/cover/UOAp6a0nwGFt_250x350.jpg"
+      }
+    },
+    {
+      "id": "Последний Рай"
+    },
+    {
+      "id": "Тайные Отношения"
+    },
+    {
+      "id": "Токийские мстители",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/toukyou-revengers/cover/ndWraMN70Gnj_250x350.jpg"
+      }
+    },
+    {
+      "id": "Шухер! У нас новый студент!"
+    },
+    {
+      "id": "Ветролом",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/wind-breacker/cover/mTxIRCBxdZdW_250x350.jpg"
+      }
+    },
+    {
+      "id": "Спаси меня",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/save-me-big-hit-ent/cover/MtMT9yfrnlQp_250x350.jpg"
+      }
+    },
+    {
+      "id": "Слабейший Герой"
+    },
+    {
+      "id": "Голубой период"
+    },
+    {
+      "id": "Серафим конца",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/owari_no_seraph/cover/KHKDImBlf62B_250x350.jpg"
+      }
+    },
+    {
+      "id": "Под зелёным светом",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/nogsaeg-jeonsang-/cover/U7YH6SQdtUGz_250x350.jpg"
+      }
+    },
+    {
+      "id": "Обмен"
+    },
+    {
+      "id": "Вместе или порознь"
+    },
+    {
+      "id": "Уроборос"
+    },
+    {
+      "id": "Хьюго"
+    },
+    {
+      "id": "Ночные этюды"
+    },
+    {
+      "id": "Дорогой Бенджамин",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/dear-benjamin/cover/LP8dv4FY2N_250x350.jpg"
+      }
+    },
+    {
+      "id": "Однажды я стала принцессой",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/suddenly-became-a-princess-one-day-/cover/HdtKMU9TPIf0_250x350.jpg"
+      }
+    },
+    {
+      "id": "Тиран - Хорошая партия для злодейки"
+    },
+    {
+      "id": "Перерождение тирана"
+    },
+    {
+      "id": "Единственный исход злодейки — смерть",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/ag-yeog-uiending-eunjug-eumppun/cover/B13fqrGImclW_250x350.jpg"
+      }
+    },
+    {
+      "id": "Проснись, герой",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/kkaeeonaseyo-yongsayeo/cover/5QvTfGhSfdLI_250x350.jpg"
+      }
+    },
+    {
+      "id": "История об Императоре, повернувшем время вспять"
+    },
+    {
+      "id": "Дочь великого мага",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/daemabeobsaui-ttal/cover/wgDkuJH1cp6Z_250x350.jpg"
+      }
+    },
+    {
+      "id": "Человек-бензопила",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/chainsaw-man/cover/mUIlgi4AJypL_250x350.jpg"
+      }
+    },
+    {
+      "id": "Человек-бензопила - История Химено, Аки и Табака."
+    },
+    {
+      "id": "Дорохедоро",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/dorohedoro/cover/4BF1Gsj7CbMQ_250x350.jpg"
+      }
+    },
+    {
+      "id": "Оглянись",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/look-back/cover/huYEjfEt6IBF_250x350.jpg"
+      }
+    },
+    {
+      "id": "Нападение петухов"
+    },
+    {
+      "id": "Пэн Питер"
+    },
+    {
+      "id": "Токийский Гуль",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/toukyou-kushu/cover/XXE0vhlR4bGs_250x350.jpg"
+      }
+    },
+    {
+      "id": "Любовь или ненависть",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/leobeu-o-eo-heiteu/cover/VQW6z1lGrJ_250x350.jpg"
+      }
+    },
+    {
+      "id": "Легенда о русале"
+    },
+    {
+      "id": "Перекрыть",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/keobeoeob/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Невеста титана",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/the-titans-bride/cover/UcuZQrLaTUCU_250x350.jpg"
+      }
+    },
+    {
+      "id": "Любовь до упаду",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/junai-dropout/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Грабитель прудовых улиток",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/uleong-gangdo/cover/Wt9PEzQxpLgm_250x350.jpg"
+      }
+    },
+    {
+      "id": "Начало после конца",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/the-beginning-after-the-end/cover/r1uqydHG5iuV_250x350.jpg"
+      }
+    },
+    {
+      "id": "Боевой Континент"
+    },
+    {
+      "id": "Прорыв игрока"
+    },
+    {
+      "id": "Перерождение в Аристократа со способностью анализа"
+    },
+    {
+      "id": "Пик боевых искусств",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/martial-peak/cover/zg1Zf9QLfHmj_250x350.jpg"
+      }
+    },
+    {
+      "id": "Игрок, который не может повысить уровень",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/revelup-mothanen-player/cover/zNCF6jX24FsB_250x350.jpg"
+      }
+    },
+    {
+      "id": "Слабейший учитель"
+    },
+    {
+      "id": "Любовь — просто иллюзия",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/salang-eun-hwansang/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "День до ночи"
+    },
+    {
+      "id": "Наша семья"
+    },
+    {
+      "id": "Шторм зверя",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/kedamono-arashi/cover/Tk1wzMyAdJ6b_250x350.jpg"
+      }
+    },
+    {
+      "id": "Кровные узы",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/blood-link/cover/bw7lKEux408J_250x350.jpg"
+      }
+    },
+    {
+      "id": "Позволь мне тебя ненавидеть",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/kiraide-isasete/cover/83Eg6r1v9098_250x350.jpg"
+      }
+    },
+    {
+      "id": "Клинок, рассекающий демонов",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/kimetsu-no-yaiba/cover/4KagQthKA49B_250x350.jpg"
+      }
+    },
+    {
+      "id": "Клинок, рассекающий демонов: Несколько лет спустя – предложение Танджиро"
+    },
+    {
+      "id": "Наруто",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/naruto/cover/kaAJ6EzjUF0I_250x350.jpg"
+      }
+    },
+    {
+      "id": "Ведьма и рыцарь выживают"
+    },
+    {
+      "id": "Класс убийц"
+    },
+    {
+      "id": "Свин-Паук"
+    },
+    {
+      "id": "Ранкер, который живет второй раз",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/ranker-who-lives-a-second-time/cover/Uv1sCRXbfNW5_250x350.jpg"
+      }
+    },
+    {
+      "id": "Королевские легенды"
+    },
+    {
+      "id": "Немёртвый бывший генерал-рыцарь"
+    },
+    {
+      "id": "Злодей Наоборот",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/libeoseu-billeon/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Когда я перевоплотился, я был маленькой рыбкой, но я могу стать драконом, так что я сделаю все возможное!"
+    },
+    {
+      "id": "Укус лунного света",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/bit-by-moonlight/cover/GKNHId0Zsgv4_250x350.jpg"
+      }
+    },
+    {
+      "id": "Дьяволу известно твоё имя"
+    },
+    {
+      "id": "Как взрастить вампира",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/how-to-breed-your-bat/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Любовь с первого взгляда",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/anan/cover/mzK5ytSOB8BD_250x350.jpg"
+      }
+    },
+    {
+      "id": "Между любовью и влечением",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/between-love-and-attraction/cover/3UcnFWCJghIg_250x350.jpg"
+      }
+    },
+    {
+      "id": "Последний вампир"
+    },
+    {
+      "id": "Я стал графским ублюдком",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/baegjagga-ui-mangnani-ga-doeeossda/cover/qAuyC8YFlzCo_250x350.jpg"
+      }
+    },
+    {
+      "id": "Итог",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/at-the-end-of-the-road-/cover/vCXSgLMTiSo6_250x350.jpg"
+      }
+    },
+    {
+      "id": "ДэмОн",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/demon/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Зависимость",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/addiction/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Солнечное затмение",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/solar-eclipse/cover/rHWQ6EZqAho9_250x350.jpg"
+      }
+    },
+    {
+      "id": "Твой след",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/chansangmani-nameun-keugose/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Снова старшеклассник",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/return-student/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Ночь, которую ты должен запомнить",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/you-must-remember-this-night/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "10 лет моей любви к тебе",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/the-10-years-i-loved-you-the-most/cover/l8iMRFOLGEDT_250x350.jpg"
+      }
+    },
+    {
+      "id": "Первая фальшивая любовь Чжоу Чэна"
+    },
+    {
+      "id": "Мы снова найдём друг друга"
+    },
+    {
+      "id": "10 лет моей любви"
+    },
+    {
+      "id": "Обманутый Ха Кён Су",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/hogu-ha-gyeong-su/cover/JZt4TcEsWANX_250x350.jpg"
+      }
+    },
+    {
+      "id": "Дарованный",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/given/cover/wSCn6MbFv3rx_250x350.jpg"
+      }
+    },
+    {
+      "id": "Нань Хао и Шан Фэн",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/nan-hao-shang-feng/cover/1b9OUQylT1Tl_250x350.jpg"
+      }
+    },
+    {
+      "id": "Закон Бессонницы",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/law-of-insomnia/cover/L8pyxSy8Ocuc_250x350.jpg"
+      }
+    },
+    {
+      "id": "Падение"
+    },
+    {
+      "id": "Их история",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/tamen-de-gushi/cover/pEwvyrkM4kAK_250x350.jpg"
+      }
+    },
+    {
+      "id": "Любовный совет от великого герцога из Ада",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/love-advice-from-the-great-duke-of-hell/cover/9wQk93wUnvzr_250x350.jpg"
+      }
+    },
+    {
+      "id": "Тайная любовь",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/taynaya-lyubov-oldxian/cover/Cqo402tIxDCv_250x350.jpg"
+      }
+    },
+    {
+      "id": "Волк и найдёныш",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/wolf-and-dog/cover/L5Xe86OPB52x_250x350.jpg"
+      }
+    },
+    {
+      "id": "Последняя молекула дофамина"
+    },
+    {
+      "id": "Осень длиною в жизнь"
+    },
+    {
+      "id": "Не уходи после школы"
+    },
+    {
+      "id": "Я слышу солнечные вспышки"
+    },
+    {
+      "id": "АЛЁшенька"
+    },
+    {
+      "id": "Белая кровь",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/white-blood_/cover/C4zmaQFcEYLv_250x350.jpg"
+      }
+    },
+    {
+      "id": "Петля",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/olgami/cover/2reO3Cm70PWK_250x350.jpg"
+      }
+    },
+    {
+      "id": "Сладкие следы от укусов",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/tian-mei-de-yao-hen-lic/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Дворянство"
+    },
+    {
+      "id": "Теперь мне есть кого любить"
+    },
+    {
+      "id": "Шальные девчонки"
+    },
+    {
+      "id": "Свеча смерти"
+    },
+    {
+      "id": "Работа глубокой ночью",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/dead-of-night-work/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Врата Ада",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/dieo-do-eo/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Нулевая охота"
+    },
+    {
+      "id": "Жажда"
+    },
+    {
+      "id": "СЕКС-манга"
+    },
+    {
+      "id": "Безумная комбинация",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/michinnom-jonghabseteu/cover/13NRT85cOvZa_250x350.jpg"
+      }
+    },
+    {
+      "id": "Любимый цирк"
+    },
+    {
+      "id": "Хороший день для Ын Су",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/eunsus2day/cover/i4key1vTZsH2_250x350.jpg"
+      }
+    },
+    {
+      "id": "Последний Омегаверс"
+    },
+    {
+      "id": "Моя любимая русалка"
+    },
+    {
+      "id": "Опыт! Сцена ХХ",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/experience-scene-of-xx/cover/UbVHM4alLb54_250x350.jpg"
+      }
+    },
+    {
+      "id": "Пойдём гулять!"
+    },
+    {
+      "id": "Пустоцвет",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/adabana/cover/MmjARQAbducv_250x350.jpg"
+      }
+    },
+    {
+      "id": "Клуб самоубийц"
+    },
+    {
+      "id": "Кровавый след"
+    },
+    {
+      "id": "Коллекция ужасов от Дзюндзи Ито"
+    },
+    {
+      "id": "Я теперь Мари"
+    },
+    {
+      "id": "Убийственные метаморфозы"
+    },
+    {
+      "id": "Распятие Шести",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/juujika-no-rokunin/cover/vamTeG2juQNC_250x350.jpg"
+      }
+    },
+    {
+      "id": "Тихая птица"
+    },
+    {
+      "id": "Эйфория",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/yeolgwang/cover/th4k8tS6PC_250x350.jpg"
+      }
+    },
+    {
+      "id": "До десяти",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/10-count/cover/MkpGsqenzhfP_250x350.jpg"
+      }
+    },
+    {
+      "id": "Воспоминания"
+    },
+    {
+      "id": "Сердце Вампира",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/vampire-heart/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Безнадёжный",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/incorrigible/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Путь к Тебе",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/path-to-you/cover/Bz1BVMpYXn5X_250x350.jpg"
+      }
+    },
+    {
+      "id": "Яойщица в теле идеального семе"
+    },
+    {
+      "id": "Незнакомец на берегу моря",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/umibe-no-etranger/cover/e0YoQyTIMZHI_250x350.jpg"
+      }
+    },
+    {
+      "id": "Стопроцентная уборка",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/100-cleanup/cover/3Q33GIlCvjlc_250x350.jpg"
+      }
+    },
+    {
+      "id": "Дикий Яой"
+    },
+    {
+      "id": "Вельзевул"
+    },
+    {
+      "id": "Моя геройская академия",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/boku_no_hero_academia/cover/aI6dcRh5Qjah_250x350.jpg"
+      }
+    },
+    {
+      "id": "Не умереть"
+    },
+    {
+      "id": "Лавлок великой войны"
+    },
+    {
+      "id": "Как подтолкнуть этого альфу?",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/how-to-attract-the-alpha/cover/EfqXfF4w5Iv7_250x350.jpg"
+      }
+    },
+    {
+      "id": "Невеста Альфы",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/alpha-no-hanayome/cover/UIcvunqAJKyh_250x350.jpg"
+      }
+    },
+    {
+      "id": "Превращение водяного оленя",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/goranijeon/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Незапланированная беременность",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/ni-xi-zhi-hao-yun-rensheng/cover/yiP4DPN62F_250x350.jpg"
+      }
+    },
+    {
+      "id": "Мой папочка - король демонов"
+    },
+    {
+      "id": "Я основал Клуб Бессмертия"
+    },
+    {
+      "id": "Берегись этой чертовки!",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/geu-agnyeoleul-josimhaseyo/cover/xbFKCPCAlCh1_250x350.jpg"
+      }
+    },
+    {
+      "id": "Выжить в качестве горничной",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/sinyeolo-sal-anamgi/cover/oSH7tIh7HMyp_250x350.jpg"
+      }
+    },
+    {
+      "id": "Убить злодейку",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/agnyeo-leul-jug-yeojwo/cover/2DVS5vJIkxcN_250x350.jpg"
+      }
+    },
+    {
+      "id": "Да здравствует король!",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/quoc-vuong-van-tue/cover/fRVdm2uhAjXb_250x350.jpg"
+      }
+    },
+    {
+      "id": "Цвет безмолвия"
+    },
+    {
+      "id": "Время игр с Хак До"
+    },
+    {
+      "id": "Любовный заговор"
+    },
+    {
+      "id": "Безмолвные грёзы"
+    },
+    {
+      "id": "Странное приветствие"
+    },
+    {
+      "id": "Дурачьё (Переиздание)"
+    },
+    {
+      "id": "Дурачьё",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/fools-yeongha/cover/e2mjg2HIGYY3_250x350.jpg"
+      }
+    },
+    {
+      "id": "Тайный Союз",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/secret-alliance/cover/jOuvnXWlHOjk_250x350.jpg"
+      }
+    },
+    {
+      "id": "Идеальный тип"
+    },
+    {
+      "id": "Очарованный ею убийца"
+    },
+    {
+      "id": "Истории яндере"
+    },
+    {
+      "id": "Она — парень-ягодка"
+    },
+    {
+      "id": "Пиксель жизни"
+    },
+    {
+      "id": "Сладкая жизнь"
+    },
+    {
+      "id": "Злодейка, перевернувшая песочные часы",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/agnyeoneun-molaesigyeleul-doedollinda-manhwa/cover/5DQwQBI3Z9Kq_250x350.jpg"
+      }
+    },
+    {
+      "id": "Блондинка-призывательница",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/geumbal-ui-jeonglyeongsa/cover/VgCJvPMkc12D_250x350.jpg"
+      }
+    },
+    {
+      "id": "Леди-малышка",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/leidi-beibi/cover/XrDL94bE1CTt_250x350.jpg"
+      }
+    },
+    {
+      "id": "Я стала дрянной дочерью герцога",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/mosnan-i-gongnyeoga-doeeossseubnida/cover/5sQY6xhNSQoD_250x350.jpg"
+      }
+    },
+    {
+      "id": "Тень Императрицы",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/geulimja-hwangb/cover/BNFzrAsvjx5e_250x350.jpg"
+      }
+    },
+    {
+      "id": "Дэйзи: Как стать невестой герцога",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/deiji/cover/lxJiihWwKqIT_250x350.jpg"
+      }
+    },
+    {
+      "id": "Я хочу стать тобой, пускай и всего на день",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/i-want-to-be-you-just-for-a-day/cover/w33iFYBKZ1AM_250x350.jpg"
+      }
+    },
+    {
+      "id": "Виляя хвостом",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/wagging-tail/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Собачья любовь"
+    },
+    {
+      "id": "Захлестнуло как цунами",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/overwhelming-tsunami/cover/8c95icc1Va_250x350.jpg"
+      }
+    },
+    {
+      "id": "THIRDS: Когда кончается ад",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/jiog-ui-kkeut-eseo/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Токкеби тоже нужен лес",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/dokkaebido-supul-i-iss-eoya-moinda/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Кот в картонной коробке"
+    },
+    {
+      "id": "Готовься, воин",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/yongsa-geu-hu/cover/Sh99CyOCcAgB_250x350.jpg"
+      }
+    },
+    {
+      "id": "Дьявольская Контрактница"
+    },
+    {
+      "id": "Жиголо"
+    },
+    {
+      "id": "Наш лидер - омежка!",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/our-omega-leadernim/cover/31yZwRomqspX_250x350.jpg"
+      }
+    },
+    {
+      "id": "Плод языка",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/hyeoui-yeolmae/cover/e29Umrkhv4q3_250x350.jpg"
+      }
+    },
+    {
+      "id": "Пожалуйста, не открывайте  клетку зверя по своему желанию"
+    },
+    {
+      "id": "Чья-то BL манхва",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/nam-ui-bl-manhwa/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Кровь мадам Жизель",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/jijel-ssi-ui-pi/cover/2VYZ8R9Svrat_250x350.jpg"
+      }
+    },
+    {
+      "id": "Птичка ласкового Токкэби"
+    },
+    {
+      "id": "Глупый пёс и егo гoспoжа"
+    },
+    {
+      "id": "Могу ли я тебя укусить?"
+    },
+    {
+      "id": "Стена из стекла"
+    },
+    {
+      "id": "Демон"
+    },
+    {
+      "id": "Оборотень"
+    },
+    {
+      "id": "Исчезни",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/get-lost/cover/U11slqjxGOlH_250x350.jpg"
+      }
+    },
+    {
+      "id": "Будь моим злодеем"
+    },
+    {
+      "id": "Мир BL против не-BL-парня"
+    },
+    {
+      "id": "Радужный свитер"
+    },
+    {
+      "id": "Сброс",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/gui-ling/cover/e2AULF5FlOQx_250x350.jpg"
+      }
+    },
+    {
+      "id": "Большие проблемы подростков"
+    },
+    {
+      "id": "Сергей-НЕ гей."
+    },
+    {
+      "id": "Банк крови",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/blood_bank/cover/8n2tomLkyPA1_250x350.jpg"
+      }
+    },
+    {
+      "id": "Уродливый император"
+    },
+    {
+      "id": "Бабочка, кусающая тигра"
+    },
+    {
+      "id": "Любовный треугольник",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/se-gaeui-jeom/cover/oK5mFKnIlio8_250x350.jpg"
+      }
+    },
+    {
+      "id": "Физическое воспитание"
+    },
+    {
+      "id": "Капучино с маршмэллоу",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/cappuccino-with-marshmallow/cover/drqAD5TijYIO_250x350.jpg"
+      }
+    },
+    {
+      "id": "#немой"
+    },
+    {
+      "id": "С замиранием сердца"
+    },
+    {
+      "id": "Украденные слёзы"
+    },
+    {
+      "id": "Ненормальный роман"
+    },
+    {
+      "id": "Вторая жизнь злодейки",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/agnyeo-neun-du-beon-sanda/cover/LW9yp8FGs0Sx_250x350.jpg"
+      }
+    },
+    {
+      "id": "Как прожить жизнь, будучи старшей сестрой тирана"
+    },
+    {
+      "id": "Мой выбор - концовка Императора"
+    },
+    {
+      "id": "Тайна ласкового герцога"
+    },
+    {
+      "id": "Борьба в прямом эфире",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/how-to-fight/cover/Y1DQ6J6TPjd7_250x350.jpg"
+      }
+    },
+    {
+      "id": "Девушка ударник"
+    },
+    {
+      "id": "Сильнейший в истории ученик Кеничи"
+    },
+    {
+      "id": "Отброс"
+    },
+    {
+      "id": "Проход защиты"
+    },
+    {
+      "id": "Создатель злодейки",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/agnyo-meikeo/cover/hUll9j0GSsrR_250x350.jpg"
+      }
+    },
+    {
+      "id": "Я стала властвующей антагонисткой романа",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/i-became-the-reigning-villain-of-the-novel/cover/GBcANxYnbMs3_250x350.jpg"
+      }
+    },
+    {
+      "id": "Читра",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/chitra/cover/t3MWxz6Vg6ie_250x350.jpg"
+      }
+    },
+    {
+      "id": "Жертва Принцессы"
+    },
+    {
+      "id": "Злодейка, которую убили 108 раз, но она все вспомнила. Дева с рубином творит чудеса"
+    },
+    {
+      "id": "Игра вслепую",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/blind-play-lc/cover/7aXeNAFfE4XQ_250x350.jpg"
+      }
+    },
+    {
+      "id": "Ловушка",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/circle-trap/cover/jZIP9cjMWK9Z_250x350.jpg"
+      }
+    },
+    {
+      "id": "Сволочь"
+    },
+    {
+      "id": "Девять Камней"
+    },
+    {
+      "id": "Прелести садизма: Другая история Б",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/saedi-seutig-byuti-oejeon-b/cover/uZCx4Y0FurOY_250x350.jpg"
+      }
+    },
+    {
+      "id": "Тарас Шевченко: Неизвестная история"
+    },
+    {
+      "id": "Не давайте неосторожных обещаний"
+    },
+    {
+      "id": "Потерянный король"
+    },
+    {
+      "id": "Истинное Образование",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/true-education/cover/iOqYTcqJIprR_250x350.jpg"
+      }
+    },
+    {
+      "id": "Боксёр"
+    },
+    {
+      "id": "Неубиваемый"
+    },
+    {
+      "id": "Крутой учитель Онидзука"
+    },
+    {
+      "id": "Месть психопата"
+    },
+    {
+      "id": "Учебная группа"
+    },
+    {
+      "id": "Жестокость: Исповедь полицейского-убийцы",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/brutal-satsujin-kansatsukan-no-kokuhaku/cover/lWYCMllXE7q7_250x350.jpg"
+      }
+    },
+    {
+      "id": "Подчинись мне",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/obey-me/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "На равных"
+    },
+    {
+      "id": "Изнасилование"
+    },
+    {
+      "id": "Ублюдок FFF-ранга",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/fff-level-of-interest/cover/UD3OBPUrdpln_250x350.jpg"
+      }
+    },
+    {
+      "id": "Оттомэн"
+    },
+    {
+      "id": "Логин Мурим"
+    },
+    {
+      "id": "Это реально герой?"
+    },
+    {
+      "id": "Маг-целитель: новый старт ~ Высшее исцеление: чары моментальной смерти и кража умений",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/kaifuku-jutsushi-no-yarinaoshi/cover/biqxIsEdnbWC_250x350.jpg"
+      }
+    },
+    {
+      "id": "Опасный круглосуточный магазин",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/wiheomhan-pyeon-uijeom/cover/Rp3TaSDR4AEC_250x350.jpg"
+      }
+    },
+    {
+      "id": "Когда убийца влюбляется",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/killeoga-salang-e-ppajyeoss-eul-ttae/cover/rDZhdzHHj344_250x350.jpg"
+      }
+    },
+    {
+      "id": "Денег нет!"
+    },
+    {
+      "id": "Арена нечистой силы"
+    },
+    {
+      "id": "Небесное вторжение"
+    },
+    {
+      "id": "Приятель на одну ночь"
+    },
+    {
+      "id": "О, мой ассистент!",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/o-naui-eosinim/cover/GbnRBcZpb4Zb_250x350.jpg"
+      }
+    },
+    {
+      "id": "А вы знаете о феях?"
+    },
+    {
+      "id": "AVLE",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/avle/cover/uRTNSnuofZLf_250x350.jpg"
+      }
+    },
+    {
+      "id": "Выживание некроманта"
+    },
+    {
+      "id": "Неромантичный",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/unromantic/cover/tygyG8ok8xZN_250x350.jpg"
+      }
+    },
+    {
+      "id": "Барашек Исака"
+    },
+    {
+      "id": "Моё дорогое убийство"
+    },
+    {
+      "id": "Взрыв",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/detonation/cover/gb8a5Ek4On0B_250x350.jpg"
+      }
+    },
+    {
+      "id": "Будь моим питомцем",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/gaegat-i-salja/cover/BzwZ0LiwGl7s_250x350.jpg"
+      }
+    },
+    {
+      "id": "Партнер для БДСМ"
+    },
+    {
+      "id": "Скучаю по тебе, Люцифер"
+    },
+    {
+      "id": "И завтра ты тоже будешь рядом, Тодороки-кун"
+    },
+    {
+      "id": "Хозяин хозяина",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/juinnimui-juinnim/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Владелица бусины"
+    },
+    {
+      "id": "Когда якудза влюблён",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/if-yakuza-falls-in-love/cover/7EcoEmaZwuM0_250x350.jpg"
+      }
+    },
+    {
+      "id": "Пентхаус XXX"
+    },
+    {
+      "id": "Стигма",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/stigma-marloong/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Великий из Бродячих псов",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/bungou-stray-dogs/cover/V6o05aIv4GkU_250x350.jpg"
+      }
+    },
+    {
+      "id": "Святая Ночь"
+    },
+    {
+      "id": "Скрытые Герои"
+    },
+    {
+      "id": "Не издевайся, Нагаторо-сан",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/ijiranaide-nagatoro-san/cover/ETA5IaNmwQpc_250x350.jpg"
+      }
+    },
+    {
+      "id": "Девочка, любящая оскорблять",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/batou-shoujo/cover/j5ScfNpWGC34_250x350.jpg"
+      }
+    },
+    {
+      "id": "Кагуя хочет, чтобы ей признались: Гении - война любви и разума",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen/cover/xi9ylSBsJEft_250x350.jpg"
+      }
+    },
+    {
+      "id": "Колючая груша"
+    },
+    {
+      "id": "Гия-сан, которая хочет смутить, и Тадамичи, которого не смутить"
+    },
+    {
+      "id": "Узаки-чан хочет тусоваться!"
+    },
+    {
+      "id": "Брошенная императрица",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/the-abandoned-empress/cover/OChNnESKNyfr_250x350.jpg"
+      }
+    },
+    {
+      "id": "Ваше величество, пожалуйста, не убивайте меня снова",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/pyeha-tto-jug-ijin-mal-ajuseyo/cover/hV6gyjewYBKP_250x350.jpg"
+      }
+    },
+    {
+      "id": "Люсия"
+    },
+    {
+      "id": "Второй раунд в высшем свете"
+    },
+    {
+      "id": "Добродетель злодейки",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/ag-yeog-i-bepuneun-mideog/cover/wWrM8mIR3h4x_250x350.jpg"
+      }
+    },
+    {
+      "id": "Княгиня чудовищ и Принцесса по контракту"
+    },
+    {
+      "id": "Охотник-суицидник SSS-уровня",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/sssgeubjasalheonteo/cover/wtzaUMvL0CgV_250x350.jpg"
+      }
+    },
+    {
+      "id": "Мой наставник - небесный демон"
+    },
+    {
+      "id": "Я стал главным ублюдком в этой новелле",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/na-honza-sosul-sock-mangnani/cover/OW1ze2AQl83g_250x350.jpg"
+      }
+    },
+    {
+      "id": "Поднятие уровня с помощью еды",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/bapman-meokgo-revelup/cover/DaI1nDKhhvlO_250x350.jpg"
+      }
+    },
+    {
+      "id": "Уровень 0"
+    },
+    {
+      "id": "Прогулка по воде",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/walk-on-water/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Марсель"
+    },
+    {
+      "id": "Сентиментальное родео: актёр гей-порно влюбился в натурала"
+    },
+    {
+      "id": "Люби меня и Ненавидь меня",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/lack-of-love/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Ливета",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/ribeta/cover/7NTuddo0lIxE_250x350.jpg"
+      }
+    },
+    {
+      "id": "Негодник"
+    },
+    {
+      "id": "Как защитить старшего брата главной героини",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/yeoju-ingong-ui-oppaleul-jikineun-bangbeob/cover/WpRTV3ukNfST_250x350.jpg"
+      }
+    },
+    {
+      "id": "Что, если я приручила своего брата слишком хорошо"
+    },
+    {
+      "id": "Злодейка 99 уровня ~Я могу быть Скрытым Боссом, но я не Король Демонов~"
+    },
+    {
+      "id": "Под дубом",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/sangsulinamu-alae/cover/JIdM8pLtxv2D_250x350.jpg"
+      }
+    },
+    {
+      "id": "Закон выживания благородной леди",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/the-basics-of-survival-lady/cover/Q9nkJ6R5rOig_250x350.jpg"
+      }
+    },
+    {
+      "id": "Нулевая игра"
+    },
+    {
+      "id": "Сладкая западня",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/sweet-trap/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Свидание вслепую"
+    },
+    {
+      "id": "Элисед",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/eleceed-/cover/adivbMMRMy5g_250x350.jpg"
+      }
+    },
+    {
+      "id": "Сумеречный Хоулер"
+    },
+    {
+      "id": "Башня Бога",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/tower-of-god/cover/s68sJ9cmjUqX_250x350.jpg"
+      }
+    },
+    {
+      "id": "неОРДИНАРНЫЕ"
+    },
+    {
+      "id": "Папочка фидер"
+    },
+    {
+      "id": "Кабинет Хейма"
+    },
+    {
+      "id": "Прирожденный наёмник",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/ibhag-yongbyeong/cover/zA0EDYIpPryv_250x350.jpg"
+      }
+    },
+    {
+      "id": "Герой, жаждущий мести, уничтожит врагов Силой Тьмы",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/fukushuu-o-koinegau-saikyou-yuusha-wa-yami-no-chikara-de-senmetsu-musou-suru/cover/0thQ5ztjls3n_250x350.jpg"
+      }
+    },
+    {
+      "id": "Ты думаешь, что сможешь сбежать после реинкарнации, Братик?"
+    },
+    {
+      "id": "Волшебник из другого мира не произносит заклинаний"
+    },
+    {
+      "id": "Убийца Гоблинов"
+    },
+    {
+      "id": "Мастер меча, живущий на крыше",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/blade-master-from-the-roof/cover/rpdcrkUa0GUF_250x350.jpg"
+      }
+    },
+    {
+      "id": "Второй брак императрицы",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/remarried-empress/cover/rxyqVLDwnhbO_250x350.jpg"
+      }
+    },
+    {
+      "id": "Бывшая девушка великого воителя"
+    },
+    {
+      "id": "Лилиен Туринская"
+    },
+    {
+      "id": "Я решила перестать делать вид, что не замечаю измен"
+    },
+    {
+      "id": "Становление королевой"
+    },
+    {
+      "id": "Слышно даже без микрофона",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/full-volume/cover/8YGa5CNUsVQB_250x350.jpg"
+      }
+    },
+    {
+      "id": "Секс-игрушки атакуют!",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/elotig-toi-eotaeg/cover/Zq8z97FLr2Wh_250x350.jpg"
+      }
+    },
+    {
+      "id": "Грудь месяца"
+    },
+    {
+      "id": "Апория",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/aporia/cover/ofJGEoAEbjE2_250x350.jpg"
+      }
+    },
+    {
+      "id": "Грудь моего Кохая великолепна~"
+    },
+    {
+      "id": "Разворот кувырком",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/pyullipton/cover/EHtIJoyHkbzX_250x350.jpg"
+      }
+    },
+    {
+      "id": "Постыдное♡приложение",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/shame-application/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Комнаты напротив",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/room-to-room/cover/jfIEUrGpLfQu_250x350.jpg"
+      }
+    },
+    {
+      "id": "Клиническое испытание",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/dugeundugeun-imsangsilheom/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Окна напротив",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/window-to-window/cover/lRRBVoCNvGYu_250x350.jpg"
+      }
+    },
+    {
+      "id": "Приложение",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/app/cover/MMBj91YbLF9v_250x350.jpg"
+      }
+    },
+    {
+      "id": "Зона любовных ограничений",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/yeonae-jehan-guyeok/cover/8Z9UTJwE2oI8_250x350.jpg"
+      }
+    },
+    {
+      "id": "Любовный сглаз",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/love-jingks/cover/woiUwd8XtYCK_250x350.jpg"
+      }
+    },
+    {
+      "id": "Ужин с боссом"
+    },
+    {
+      "id": "Бессонные метания",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/throwing-of-the-sleepless/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Движение любви",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/love-shuttle/cover/3mMJc7Y4Vl_250x350.jpg"
+      }
+    },
+    {
+      "id": "Лягушачий принц"
+    },
+    {
+      "id": "Любимчик"
+    },
+    {
+      "id": "Как у меня появился парень во время игры?"
+    },
+    {
+      "id": "Остерегайтесь демонов",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/dangxin-emo/cover/h7Quw4O5x1iT_250x350.jpg"
+      }
+    },
+    {
+      "id": "Шампанское и розы",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/jangmiwa-syampein/cover/FcU2nljyY4TG_250x350.jpg"
+      }
+    },
+    {
+      "id": "Мафия демонов"
+    },
+    {
+      "id": "Артур"
+    },
+    {
+      "id": "Роман в один конец",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/roman-v-odin-konec/cover/buNBxz0NoFWz_250x350.jpg"
+      }
+    },
+    {
+      "id": "Ису из семьи Кан"
+    },
+    {
+      "id": "Придурок! Кто разрешил меня трогать?!",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/jackass-sawatte-ii-tte-dare-ga-itta-yo/cover/ZGeRtAbHxaeI_250x350.jpg"
+      }
+    },
+    {
+      "id": "Четвёртый Оямато Тацуюки"
+    },
+    {
+      "id": "Невероятное Приключение ДжоДжо Часть 7: Стил-Болл-Ран",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/steel-ball-run/cover/XS3Mj1hdK2SG_250x350.jpg"
+      }
+    },
+    {
+      "id": "Клуб Яричин",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/yarichin-bitch-club/cover/tjnjR2fbLiEs_250x350.jpg"
+      }
+    },
+    {
+      "id": "Приватные занятия",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/teugbyeolgang-ui/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Звезда и фанат"
+    },
+    {
+      "id": "Реинкарнация врача",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/medical-return/cover/wSTTH7VVOocE_250x350.jpg"
+      }
+    },
+    {
+      "id": "Джин"
+    },
+    {
+      "id": "Доктор"
+    },
+    {
+      "id": "Легенда о Регрессии"
+    },
+    {
+      "id": "Настоящий Мужчина"
+    },
+    {
+      "id": "Злодейка Каруна стала младше"
+    },
+    {
+      "id": "Наемный солдат"
+    },
+    {
+      "id": "Свободный выбор"
+    },
+    {
+      "id": "Выше Всех Богов"
+    },
+    {
+      "id": "Повелитель Гоблинов"
+    },
+    {
+      "id": "Басня"
+    },
+    {
+      "id": "Реинкарнация Военного",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/god-of-blackfield/cover/IBfS8BO9mkMF_250x350.jpg"
+      }
+    },
+    {
+      "id": "Мир вещей",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/gimuldeul-ui-segye/cover/r1zO3o0YCaQA_250x350.jpg"
+      }
+    },
+    {
+      "id": "Чёрное зеркало",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/geom-eun-geoul/cover/dMi7SI1Qxg55_250x350.jpg"
+      }
+    },
+    {
+      "id": "Взаперти",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/gamgeumchanggo/cover/Hwvy00C1P0_250x350.jpg"
+      }
+    },
+    {
+      "id": "Сломленный"
+    },
+    {
+      "id": "Кодекс молчания"
+    },
+    {
+      "id": "Поцелуй невесту"
+    },
+    {
+      "id": "Бывший Якудза стал писателем BL"
+    },
+    {
+      "id": "Магазинчик 'Longtime Red'"
+    },
+    {
+      "id": "Тише, ты разбудишь ребенка"
+    },
+    {
+      "id": "Дарую тебе свою кровь",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/giving-my-blood-to-you/cover/ETfjRVPUQd_250x350.jpg"
+      }
+    },
+    {
+      "id": "Королевский слуга"
+    },
+    {
+      "id": "Мой маленький вампир"
+    },
+    {
+      "id": "Мой сосед - вампир"
+    },
+    {
+      "id": "Переливание"
+    },
+    {
+      "id": "Игра в прятки"
+    },
+    {
+      "id": "Магия Вернувшегося Должна Быть Особенной",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/gwihwanjaui-mabeob-eun-teugbyeolhaeya-habnida/cover/9eu3A9DUaGlA_250x350.jpg"
+      }
+    },
+    {
+      "id": "Пожиратель книг",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/meogneun-mabeobsa/cover/qjC8LFPYkHDN_250x350.jpg"
+      }
+    },
+    {
+      "id": "Демон на ужин!"
+    },
+    {
+      "id": "Обещание, расцветшее в орхидеях",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/the-promise-blossomed-in-orchids/cover/e4sqbkviaebo_250x350.jpg"
+      }
+    },
+    {
+      "id": "Точка Возврата"
+    },
+    {
+      "id": "Система жизни",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/deo-laibeu/cover/IyPitSf2Pc87_250x350.jpg"
+      }
+    },
+    {
+      "id": "Это же просто сон?!",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/kkumjaliga-isanghandeyo/cover/CekBrqnYTRJJ_250x350.jpg"
+      }
+    },
+    {
+      "id": "Убить Злодея",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/billeontukil/cover/0GcfNhzUCvnQ_250x350.jpg"
+      }
+    },
+    {
+      "id": "Крушитель: Новые волны"
+    },
+    {
+      "id": "Лавка убийцы"
+    },
+    {
+      "id": "Выживание с нуля",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/return-to-survive/cover/jlOzHLu9yyAA_250x350.jpg"
+      }
+    },
+    {
+      "id": "Между прочим, мы живем вместе",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/coincidence/cover/cover_250x350.jpg"
+      }
+    },
+    {
+      "id": "Хладнокровный зверь",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/byeon-on-jimseung/cover/7i4iU2bHVKzY_250x350.jpg"
+      }
+    },
+    {
+      "id": "Люблю-ненавижу"
+    },
+    {
+      "id": "Стокгольмский синдром"
+    },
+    {
+      "id": "Упустить",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/peombeul/cover/Hr6Sqh1Cpec1_250x350.jpg"
+      }
+    },
+    {
+      "id": "Призрачный киллер"
+    },
+    {
+      "id": "Хороший учитель",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/good-teacher/cover/JMzvgs3YuQP4_250x350.jpg"
+      }
+    },
+    {
+      "id": "Не Могу Оторвать от Тебя Взгляд"
+    },
+    {
+      "id": "Магистр Дьявольского Культа",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/mo-dao-zu-shi/cover/DeTJLpLVnfwe_250x350.jpg"
+      }
+    },
+    {
+      "id": "Культиватор из Будущего"
+    },
+    {
+      "id": "Список Ланъя"
+    },
+    {
+      "id": "Хаски и его учитель белый кот - Додзинси"
+    },
+    {
+      "id": "Смутно"
+    },
+    {
+      "id": "Старейшина укажет путь"
+    },
+    {
+      "id": "Система «Спаси-Себя-Сам» для главного злодея"
+    },
+    {
+      "id": "Обещанный Неверленд",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/yakusoku-no-neverland/cover/V6PnrWysPZQ9_250x350.jpg"
+      }
+    },
+    {
+      "id": "Атака Титанов"
+    },
+    {
+      "id": "Тетрадь смерти",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/desu-noto/cover/5UcB013CNhll_250x350.jpg"
+      }
+    },
+    {
+      "id": "Колыбель Сейо"
+    },
+    {
+      "id": "Человечество на закуску",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/shokuryou-jinrui/cover/Bo2gjAFKRHJo_250x350.jpg"
+      }
+    },
+    {
+      "id": "Человеческая ферма"
+    },
+    {
+      "id": "Прощай, Питер Пэн"
+    },
+    {
+      "id": "Поцелуй меня, лжец",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/kiseu-mi-laieo/cover/xthy6E68qLSv_250x350.jpg"
+      }
+    },
+    {
+      "id": "Невероятное приключение ДжоДжо — Часть 6: Каменный океан (В цвете)",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/jojo-no-kimyou-na-bouken-part-6-stone-ocean-solored/cover/EIrXRDALMtej_250x350.jpg"
+      }
+    },
+    {
+      "id": "Серый кардинал",
+      "fill": {
+        "src": "https://staticlib.me/uploads/cover/kingseu-meikeo/cover/EjSHEMeZnaDd_250x350.jpg"
+      }
+    },
+    {
+      "id": "Меланхоличное утро"
+    },
+    {
+      "id": "Детка, этот парень просто псих"
+    },
+    {
+      "id": "Эннеада"
+    },
+    {
+      "id": "Шпинель"
+    }
+  ],
+  "edges": [
+    {
+      "from": "Поднятие уровня в одиночку",
+      "to": "Легендарный Лунный Скульптор"
+    },
+    {
+      "from": "Поднятие уровня в одиночку",
+      "to": "Возвращение игрока"
+    },
+    {
+      "from": "Поднятие уровня в одиночку",
+      "to": "Воин-скелет не смог защитить подземелье"
+    },
+    {
+      "from": "Поднятие уровня в одиночку",
+      "to": "Всеведущий читатель"
+    },
+    {
+      "from": "Поднятие уровня в одиночку",
+      "to": "Миром правят власть и деньги"
+    },
+    {
+      "from": "Поднятие уровня в одиночку",
+      "to": "Мой папа слишком сильный"
+    },
+    {
+      "from": "BJ Алекс",
+      "to": "Даже если ты меня не любишь"
+    },
+    {
+      "from": "BJ Алекс",
+      "to": "Если ты так сильно меня Ненавидишь"
+    },
+    {
+      "from": "BJ Алекс",
+      "to": "Такой же как ты"
+    },
+    {
+      "from": "BJ Алекс",
+      "to": "Сладкие деньки яойщиков"
+    },
+    {
+      "from": "BJ Алекс",
+      "to": "Мой подчинённый"
+    },
+    {
+      "from": "BJ Алекс",
+      "to": "Социальная температура"
+    },
+    {
+      "from": "Математика",
+      "to": "Биологические факты"
+    },
+    {
+      "from": "Математика",
+      "to": "Livers"
+    },
+    {
+      "from": "Математика",
+      "to": "Химические fuckты"
+    },
+    {
+      "from": "Математика",
+      "to": "Берсерк"
+    },
+    {
+      "from": "Математика",
+      "to": "1000 признаков того, что ты не очень хороший шахматист (Новелла) / обучение шахматам"
+    },
+    {
+      "from": "Ты Здесь",
+      "to": "В начале была ложь"
+    },
+    {
+      "from": "Ты Здесь",
+      "to": "Даос x Контракт с демоном"
+    },
+    {
+      "from": "Ты Здесь",
+      "to": "Ты будешь меня ненавидеть"
+    },
+    {
+      "from": "Ты Здесь",
+      "to": "Такой же как ты"
+    },
+    {
+      "from": "Ты Здесь",
+      "to": "18 Без Ограничения"
+    },
+    {
+      "from": "Ты Здесь",
+      "to": "Язык жестов"
+    },
+    {
+      "from": "19 Дней - Однажды",
+      "to": "Неприкасаемый"
+    },
+    {
+      "from": "19 Дней - Однажды",
+      "to": "По кругу"
+    },
+    {
+      "from": "19 Дней - Однажды",
+      "to": "Мегуми и Цугуми"
+    },
+    {
+      "from": "19 Дней - Однажды",
+      "to": "Послезавтра"
+    },
+    {
+      "from": "19 Дней - Однажды",
+      "to": "Никогда не пойму"
+    },
+    {
+      "from": "19 Дней - Однажды",
+      "to": "Насыщенная жизнь"
+    },
+    {
+      "from": "Прелести садизма: Другая история А",
+      "to": "Тайная жизнь знатной дамы"
+    },
+    {
+      "from": "Прелести садизма: Другая история А",
+      "to": "Есть ли шанс"
+    },
+    {
+      "from": "Прелести садизма: Другая история А",
+      "to": "Хрустящая любовь"
+    },
+    {
+      "from": "Прелести садизма: Другая история А",
+      "to": "Мой секретарь - демон"
+    },
+    {
+      "from": "Прелести садизма: Другая история А",
+      "to": "Горько-сладкий кон-панна"
+    },
+    {
+      "from": "Прелести садизма: Другая история А",
+      "to": "Эта фарфоровая кукла влюбилась"
+    },
+    {
+      "from": "Убить Сталкера",
+      "to": "Заговор войны в мире Мэри Сью"
+    },
+    {
+      "from": "Убить Сталкера",
+      "to": "Моритат"
+    },
+    {
+      "from": "Убить Сталкера",
+      "to": "Змеиный язык"
+    },
+    {
+      "from": "Убить Сталкера",
+      "to": "До свидания, хозяин"
+    },
+    {
+      "from": "Убить Сталкера",
+      "to": "История Нашей Жизни"
+    },
+    {
+      "from": "Убить Сталкера",
+      "to": "BJ Алекс"
+    },
+    {
+      "from": "Воспитание хозяина",
+      "to": "Обаятельный  убийца Ллевеллин приглашает на ужин"
+    },
+    {
+      "from": "Воспитание хозяина",
+      "to": "Ю Су, это есть нельзя!"
+    },
+    {
+      "from": "Воспитание хозяина",
+      "to": "Расплата"
+    },
+    {
+      "from": "Воспитание хозяина",
+      "to": "Такой же как ты"
+    },
+    {
+      "from": "Воспитание хозяина",
+      "to": "Парень-Ракушка / Жемчужный Мальчик"
+    },
+    {
+      "from": "Воспитание хозяина",
+      "to": "Просьба уйти"
+    },
+    {
+      "from": "Вишня цветет после зимы",
+      "to": "Ноги, что не могут идти"
+    },
+    {
+      "from": "Вишня цветет после зимы",
+      "to": "Секрет работника К"
+    },
+    {
+      "from": "Вишня цветет после зимы",
+      "to": "Втрескайся в меня"
+    },
+    {
+      "from": "Вишня цветет после зимы",
+      "to": "Воспитание хозяина"
+    },
+    {
+      "from": "Вишня цветет после зимы",
+      "to": "Последний Рай"
+    },
+    {
+      "from": "Вишня цветет после зимы",
+      "to": "Тайные Отношения"
+    },
+    {
+      "from": "Токийские мстители",
+      "to": "Шухер! У нас новый студент!"
+    },
+    {
+      "from": "Токийские мстители",
+      "to": "Ветролом"
+    },
+    {
+      "from": "Токийские мстители",
+      "to": "Спаси меня"
+    },
+    {
+      "from": "Токийские мстители",
+      "to": "Слабейший Герой"
+    },
+    {
+      "from": "Токийские мстители",
+      "to": "Голубой период"
+    },
+    {
+      "from": "Токийские мстители",
+      "to": "Серафим конца"
+    },
+    {
+      "from": "Под зелёным светом",
+      "to": "Обмен"
+    },
+    {
+      "from": "Под зелёным светом",
+      "to": "Вместе или порознь"
+    },
+    {
+      "from": "Под зелёным светом",
+      "to": "Уроборос"
+    },
+    {
+      "from": "Под зелёным светом",
+      "to": "Хьюго"
+    },
+    {
+      "from": "Под зелёным светом",
+      "to": "Ночные этюды"
+    },
+    {
+      "from": "Под зелёным светом",
+      "to": "Дорогой Бенджамин"
+    },
+    {
+      "from": "Однажды я стала принцессой",
+      "to": "Тиран - Хорошая партия для злодейки"
+    },
+    {
+      "from": "Однажды я стала принцессой",
+      "to": "Перерождение тирана"
+    },
+    {
+      "from": "Однажды я стала принцессой",
+      "to": "Единственный исход злодейки — смерть"
+    },
+    {
+      "from": "Однажды я стала принцессой",
+      "to": "Проснись, герой"
+    },
+    {
+      "from": "Однажды я стала принцессой",
+      "to": "История об Императоре, повернувшем время вспять"
+    },
+    {
+      "from": "Однажды я стала принцессой",
+      "to": "Дочь великого мага"
+    },
+    {
+      "from": "Человек-бензопила",
+      "to": "Человек-бензопила - История Химено, Аки и Табака."
+    },
+    {
+      "from": "Человек-бензопила",
+      "to": "Дорохедоро"
+    },
+    {
+      "from": "Человек-бензопила",
+      "to": "Оглянись"
+    },
+    {
+      "from": "Человек-бензопила",
+      "to": "Нападение петухов"
+    },
+    {
+      "from": "Человек-бензопила",
+      "to": "Пэн Питер"
+    },
+    {
+      "from": "Человек-бензопила",
+      "to": "Токийский Гуль"
+    },
+    {
+      "from": "Парень-Ракушка / Жемчужный Мальчик",
+      "to": "Любовь или ненависть"
+    },
+    {
+      "from": "Парень-Ракушка / Жемчужный Мальчик",
+      "to": "Легенда о русале"
+    },
+    {
+      "from": "Парень-Ракушка / Жемчужный Мальчик",
+      "to": "Перекрыть"
+    },
+    {
+      "from": "Парень-Ракушка / Жемчужный Мальчик",
+      "to": "Невеста титана"
+    },
+    {
+      "from": "Парень-Ракушка / Жемчужный Мальчик",
+      "to": "Любовь до упаду"
+    },
+    {
+      "from": "Парень-Ракушка / Жемчужный Мальчик",
+      "to": "Грабитель прудовых улиток"
+    },
+    {
+      "from": "Начало после конца",
+      "to": "Боевой Континент"
+    },
+    {
+      "from": "Начало после конца",
+      "to": "Прорыв игрока"
+    },
+    {
+      "from": "Начало после конца",
+      "to": "Перерождение в Аристократа со способностью анализа"
+    },
+    {
+      "from": "Начало после конца",
+      "to": "Пик боевых искусств"
+    },
+    {
+      "from": "Начало после конца",
+      "to": "Игрок, который не может повысить уровень"
+    },
+    {
+      "from": "Начало после конца",
+      "to": "Слабейший учитель"
+    },
+    {
+      "from": "Любовь — просто иллюзия",
+      "to": "Сладкие деньки яойщиков"
+    },
+    {
+      "from": "Любовь — просто иллюзия",
+      "to": "День до ночи"
+    },
+    {
+      "from": "Любовь — просто иллюзия",
+      "to": "Наша семья"
+    },
+    {
+      "from": "Любовь — просто иллюзия",
+      "to": "Шторм зверя"
+    },
+    {
+      "from": "Любовь — просто иллюзия",
+      "to": "Кровные узы"
+    },
+    {
+      "from": "Любовь — просто иллюзия",
+      "to": "Позволь мне тебя ненавидеть"
+    },
+    {
+      "from": "Клинок, рассекающий демонов",
+      "to": "Человек-бензопила"
+    },
+    {
+      "from": "Клинок, рассекающий демонов",
+      "to": "Клинок, рассекающий демонов: Несколько лет спустя – предложение Танджиро"
+    },
+    {
+      "from": "Клинок, рассекающий демонов",
+      "to": "Наруто"
+    },
+    {
+      "from": "Клинок, рассекающий демонов",
+      "to": "Ведьма и рыцарь выживают"
+    },
+    {
+      "from": "Клинок, рассекающий демонов",
+      "to": "Класс убийц"
+    },
+    {
+      "from": "Клинок, рассекающий демонов",
+      "to": "Свин-Паук"
+    },
+    {
+      "from": "Ранкер, который живет второй раз",
+      "to": "Королевские легенды"
+    },
+    {
+      "from": "Ранкер, который живет второй раз",
+      "to": "Немёртвый бывший генерал-рыцарь"
+    },
+    {
+      "from": "Ранкер, который живет второй раз",
+      "to": "Злодей Наоборот"
+    },
+    {
+      "from": "Ранкер, который живет второй раз",
+      "to": "Воин-скелет не смог защитить подземелье"
+    },
+    {
+      "from": "Ранкер, который живет второй раз",
+      "to": "Когда я перевоплотился, я был маленькой рыбкой, но я могу стать драконом, так что я сделаю все возможное!"
+    },
+    {
+      "from": "Ранкер, который живет второй раз",
+      "to": "Начало после конца"
+    },
+    {
+      "from": "Укус лунного света",
+      "to": "Дьяволу известно твоё имя"
+    },
+    {
+      "from": "Укус лунного света",
+      "to": "Как взрастить вампира"
+    },
+    {
+      "from": "Укус лунного света",
+      "to": "Любовь с первого взгляда"
+    },
+    {
+      "from": "Укус лунного света",
+      "to": "Между любовью и влечением"
+    },
+    {
+      "from": "Укус лунного света",
+      "to": "Последний вампир"
+    },
+    {
+      "from": "Укус лунного света",
+      "to": "Я стал графским ублюдком"
+    },
+    {
+      "from": "Итог",
+      "to": "ДэмОн"
+    },
+    {
+      "from": "Итог",
+      "to": "Зависимость"
+    },
+    {
+      "from": "Итог",
+      "to": "Солнечное затмение"
+    },
+    {
+      "from": "Итог",
+      "to": "Твой след"
+    },
+    {
+      "from": "Итог",
+      "to": "Снова старшеклассник"
+    },
+    {
+      "from": "Итог",
+      "to": "Ночь, которую ты должен запомнить"
+    },
+    {
+      "from": "10 лет моей любви к тебе",
+      "to": "Первая фальшивая любовь Чжоу Чэна"
+    },
+    {
+      "from": "10 лет моей любви к тебе",
+      "to": "Мы снова найдём друг друга"
+    },
+    {
+      "from": "10 лет моей любви к тебе",
+      "to": "10 лет моей любви"
+    },
+    {
+      "from": "10 лет моей любви к тебе",
+      "to": "Обманутый Ха Кён Су"
+    },
+    {
+      "from": "10 лет моей любви к тебе",
+      "to": "Дарованный"
+    },
+    {
+      "from": "10 лет моей любви к тебе",
+      "to": "Ночные этюды"
+    },
+    {
+      "from": "Нань Хао и Шан Фэн",
+      "to": "Закон Бессонницы"
+    },
+    {
+      "from": "Нань Хао и Шан Фэн",
+      "to": "Падение"
+    },
+    {
+      "from": "Нань Хао и Шан Фэн",
+      "to": "Их история"
+    },
+    {
+      "from": "Нань Хао и Шан Фэн",
+      "to": "Любовный совет от великого герцога из Ада"
+    },
+    {
+      "from": "Нань Хао и Шан Фэн",
+      "to": "Тайная любовь"
+    },
+    {
+      "from": "Нань Хао и Шан Фэн",
+      "to": "Волк и найдёныш"
+    },
+    {
+      "from": "ДэмОн",
+      "to": "Последняя молекула дофамина"
+    },
+    {
+      "from": "ДэмОн",
+      "to": "Осень длиною в жизнь"
+    },
+    {
+      "from": "ДэмОн",
+      "to": "Не уходи после школы"
+    },
+    {
+      "from": "ДэмОн",
+      "to": "Я слышу солнечные вспышки"
+    },
+    {
+      "from": "ДэмОн",
+      "to": "Нань Хао и Шан Фэн"
+    },
+    {
+      "from": "ДэмОн",
+      "to": "АЛЁшенька"
+    },
+    {
+      "from": "Белая кровь",
+      "to": "Петля"
+    },
+    {
+      "from": "Белая кровь",
+      "to": "Сладкие следы от укусов"
+    },
+    {
+      "from": "Белая кровь",
+      "to": "Дворянство"
+    },
+    {
+      "from": "Белая кровь",
+      "to": "Теперь мне есть кого любить"
+    },
+    {
+      "from": "Белая кровь",
+      "to": "Шальные девчонки"
+    },
+    {
+      "from": "Белая кровь",
+      "to": "Свеча смерти"
+    },
+    {
+      "from": "Секрет работника К",
+      "to": "Работа глубокой ночью"
+    },
+    {
+      "from": "Секрет работника К",
+      "to": "Врата Ада"
+    },
+    {
+      "from": "Секрет работника К",
+      "to": "Нулевая охота"
+    },
+    {
+      "from": "Секрет работника К",
+      "to": "Ночные этюды"
+    },
+    {
+      "from": "Секрет работника К",
+      "to": "Жажда"
+    },
+    {
+      "from": "Секрет работника К",
+      "to": "СЕКС-манга"
+    },
+    {
+      "from": "Безумная комбинация",
+      "to": "Любимый цирк"
+    },
+    {
+      "from": "Безумная комбинация",
+      "to": "Хороший день для Ын Су"
+    },
+    {
+      "from": "Безумная комбинация",
+      "to": "Последний Омегаверс"
+    },
+    {
+      "from": "Безумная комбинация",
+      "to": "Моя любимая русалка"
+    },
+    {
+      "from": "Безумная комбинация",
+      "to": "Опыт! Сцена ХХ"
+    },
+    {
+      "from": "Безумная комбинация",
+      "to": "Пойдём гулять!"
+    },
+    {
+      "from": "Пустоцвет",
+      "to": "Клуб самоубийц"
+    },
+    {
+      "from": "Пустоцвет",
+      "to": "Кровавый след"
+    },
+    {
+      "from": "Пустоцвет",
+      "to": "Коллекция ужасов от Дзюндзи Ито"
+    },
+    {
+      "from": "Пустоцвет",
+      "to": "Я теперь Мари"
+    },
+    {
+      "from": "Пустоцвет",
+      "to": "Убийственные метаморфозы"
+    },
+    {
+      "from": "Пустоцвет",
+      "to": "Распятие Шести"
+    },
+    {
+      "from": "Кровные узы",
+      "to": "Тихая птица"
+    },
+    {
+      "from": "Кровные узы",
+      "to": "Врата Ада"
+    },
+    {
+      "from": "Кровные узы",
+      "to": "Эйфория"
+    },
+    {
+      "from": "Кровные узы",
+      "to": "До десяти"
+    },
+    {
+      "from": "Кровные узы",
+      "to": "Воспоминания"
+    },
+    {
+      "from": "Кровные узы",
+      "to": "Сердце Вампира"
+    },
+    {
+      "from": "Безнадёжный",
+      "to": "Путь к Тебе"
+    },
+    {
+      "from": "Безнадёжный",
+      "to": "Яойщица в теле идеального семе"
+    },
+    {
+      "from": "Безнадёжный",
+      "to": "Незнакомец на берегу моря"
+    },
+    {
+      "from": "Безнадёжный",
+      "to": "Стопроцентная уборка"
+    },
+    {
+      "from": "Безнадёжный",
+      "to": "Итог"
+    },
+    {
+      "from": "Безнадёжный",
+      "to": "Дикий Яой"
+    },
+    {
+      "from": "Ветролом",
+      "to": "Вельзевул"
+    },
+    {
+      "from": "Ветролом",
+      "to": "Моя геройская академия"
+    },
+    {
+      "from": "Ветролом",
+      "to": "Не умереть"
+    },
+    {
+      "from": "Ветролом",
+      "to": "Лавлок великой войны"
+    },
+    {
+      "from": "Ветролом",
+      "to": "Токийские мстители"
+    },
+    {
+      "from": "Ветролом",
+      "to": "Ветролом"
+    },
+    {
+      "from": "Как подтолкнуть этого альфу?",
+      "to": "Невеста Альфы"
+    },
+    {
+      "from": "Как подтолкнуть этого альфу?",
+      "to": "Превращение водяного оленя"
+    },
+    {
+      "from": "Как подтолкнуть этого альфу?",
+      "to": "Безумная комбинация"
+    },
+    {
+      "from": "Как подтолкнуть этого альфу?",
+      "to": "Мегуми и Цугуми"
+    },
+    {
+      "from": "Как подтолкнуть этого альфу?",
+      "to": "Незапланированная беременность"
+    },
+    {
+      "from": "Как подтолкнуть этого альфу?",
+      "to": "Мой папочка - король демонов"
+    },
+    {
+      "from": "Я стал графским ублюдком",
+      "to": "Я основал Клуб Бессмертия"
+    },
+    {
+      "from": "Я стал графским ублюдком",
+      "to": "Ранкер, который живет второй раз"
+    },
+    {
+      "from": "Я стал графским ублюдком",
+      "to": "Берегись этой чертовки!"
+    },
+    {
+      "from": "Я стал графским ублюдком",
+      "to": "Выжить в качестве горничной"
+    },
+    {
+      "from": "Я стал графским ублюдком",
+      "to": "Убить злодейку"
+    },
+    {
+      "from": "Я стал графским ублюдком",
+      "to": "Да здравствует король!"
+    },
+    {
+      "from": "Язык жестов",
+      "to": "Цвет безмолвия"
+    },
+    {
+      "from": "Язык жестов",
+      "to": "Время игр с Хак До"
+    },
+    {
+      "from": "Язык жестов",
+      "to": "Любовь — просто иллюзия"
+    },
+    {
+      "from": "Язык жестов",
+      "to": "Любовный заговор"
+    },
+    {
+      "from": "Язык жестов",
+      "to": "Вместе или порознь"
+    },
+    {
+      "from": "Язык жестов",
+      "to": "Безмолвные грёзы"
+    },
+    {
+      "from": "Любовь или ненависть",
+      "to": "Странное приветствие"
+    },
+    {
+      "from": "Любовь или ненависть",
+      "to": "Дурачьё (Переиздание)"
+    },
+    {
+      "from": "Любовь или ненависть",
+      "to": "Дурачьё"
+    },
+    {
+      "from": "Любовь или ненависть",
+      "to": "Любовь или ненависть"
+    },
+    {
+      "from": "Тайный Союз",
+      "to": "Идеальный тип"
+    },
+    {
+      "from": "Тайный Союз",
+      "to": "Очарованный ею убийца"
+    },
+    {
+      "from": "Тайный Союз",
+      "to": "Истории яндере"
+    },
+    {
+      "from": "Тайный Союз",
+      "to": "Она — парень-ягодка"
+    },
+    {
+      "from": "Тайный Союз",
+      "to": "Пиксель жизни"
+    },
+    {
+      "from": "Тайный Союз",
+      "to": "Сладкая жизнь"
+    },
+    {
+      "from": "Злодейка, перевернувшая песочные часы",
+      "to": "Блондинка-призывательница"
+    },
+    {
+      "from": "Злодейка, перевернувшая песочные часы",
+      "to": "Леди-малышка"
+    },
+    {
+      "from": "Злодейка, перевернувшая песочные часы",
+      "to": "Я стала дрянной дочерью герцога"
+    },
+    {
+      "from": "Злодейка, перевернувшая песочные часы",
+      "to": "Тень Императрицы"
+    },
+    {
+      "from": "Злодейка, перевернувшая песочные часы",
+      "to": "Дэйзи: Как стать невестой герцога"
+    },
+    {
+      "from": "Злодейка, перевернувшая песочные часы",
+      "to": "Я хочу стать тобой, пускай и всего на день"
+    },
+    {
+      "from": "Виляя хвостом",
+      "to": "Собачья любовь"
+    },
+    {
+      "from": "Виляя хвостом",
+      "to": "Падение"
+    },
+    {
+      "from": "Виляя хвостом",
+      "to": "Вишня цветет после зимы"
+    },
+    {
+      "from": "Виляя хвостом",
+      "to": "Захлестнуло как цунами"
+    },
+    {
+      "from": "Виляя хвостом",
+      "to": "Моя любимая русалка"
+    },
+    {
+      "from": "Виляя хвостом",
+      "to": "THIRDS: Когда кончается ад"
+    },
+    {
+      "from": "Врата Ада",
+      "to": "Токкеби тоже нужен лес"
+    },
+    {
+      "from": "Врата Ада",
+      "to": "Кот в картонной коробке"
+    },
+    {
+      "from": "Врата Ада",
+      "to": "Готовься, воин"
+    },
+    {
+      "from": "Врата Ада",
+      "to": "Дьявольская Контрактница"
+    },
+    {
+      "from": "Врата Ада",
+      "to": "Мой папочка - король демонов"
+    },
+    {
+      "from": "Врата Ада",
+      "to": "Кровные узы"
+    },
+    {
+      "from": "Снова старшеклассник",
+      "to": "Жиголо"
+    },
+    {
+      "from": "Снова старшеклассник",
+      "to": "Наш лидер - омежка!"
+    },
+    {
+      "from": "Снова старшеклассник",
+      "to": "Воспитание хозяина"
+    },
+    {
+      "from": "Снова старшеклассник",
+      "to": "Плод языка"
+    },
+    {
+      "from": "Снова старшеклассник",
+      "to": "Пожалуйста, не открывайте  клетку зверя по своему желанию"
+    },
+    {
+      "from": "Снова старшеклассник",
+      "to": "Чья-то BL манхва"
+    },
+    {
+      "from": "Кровь мадам Жизель",
+      "to": "Птичка ласкового Токкэби"
+    },
+    {
+      "from": "Кровь мадам Жизель",
+      "to": "Глупый пёс и егo гoспoжа"
+    },
+    {
+      "from": "Кровь мадам Жизель",
+      "to": "Могу ли я тебя укусить?"
+    },
+    {
+      "from": "Кровь мадам Жизель",
+      "to": "Стена из стекла"
+    },
+    {
+      "from": "Кровь мадам Жизель",
+      "to": "Демон"
+    },
+    {
+      "from": "Кровь мадам Жизель",
+      "to": "Оборотень"
+    },
+    {
+      "from": "Исчезни",
+      "to": "Будь моим злодеем"
+    },
+    {
+      "from": "Исчезни",
+      "to": "Мир BL против не-BL-парня"
+    },
+    {
+      "from": "Исчезни",
+      "to": "Радужный свитер"
+    },
+    {
+      "from": "Исчезни",
+      "to": "Сброс"
+    },
+    {
+      "from": "Исчезни",
+      "to": "Большие проблемы подростков"
+    },
+    {
+      "from": "Исчезни",
+      "to": "Сергей-НЕ гей."
+    },
+    {
+      "from": "Банк крови",
+      "to": "Уродливый император"
+    },
+    {
+      "from": "Банк крови",
+      "to": "Бабочка, кусающая тигра"
+    },
+    {
+      "from": "Банк крови",
+      "to": "Любовный треугольник"
+    },
+    {
+      "from": "Банк крови",
+      "to": "Последний вампир"
+    },
+    {
+      "from": "Банк крови",
+      "to": "Физическое воспитание"
+    },
+    {
+      "from": "Банк крови",
+      "to": "BJ Алекс"
+    },
+    {
+      "from": "Капучино с маршмэллоу",
+      "to": "Ты Здесь"
+    },
+    {
+      "from": "Капучино с маршмэллоу",
+      "to": "#немой"
+    },
+    {
+      "from": "Капучино с маршмэллоу",
+      "to": "Итог"
+    },
+    {
+      "from": "Капучино с маршмэллоу",
+      "to": "С замиранием сердца"
+    },
+    {
+      "from": "Капучино с маршмэллоу",
+      "to": "Украденные слёзы"
+    },
+    {
+      "from": "Капучино с маршмэллоу",
+      "to": "Токийский Гуль"
+    },
+    {
+      "from": "Берегись этой чертовки!",
+      "to": "Ненормальный роман"
+    },
+    {
+      "from": "Берегись этой чертовки!",
+      "to": "Вторая жизнь злодейки"
+    },
+    {
+      "from": "Берегись этой чертовки!",
+      "to": "История об Императоре, повернувшем время вспять"
+    },
+    {
+      "from": "Берегись этой чертовки!",
+      "to": "Как прожить жизнь, будучи старшей сестрой тирана"
+    },
+    {
+      "from": "Берегись этой чертовки!",
+      "to": "Мой выбор - концовка Императора"
+    },
+    {
+      "from": "Берегись этой чертовки!",
+      "to": "Тайна ласкового герцога"
+    },
+    {
+      "from": "Борьба в прямом эфире",
+      "to": "Токийские мстители"
+    },
+    {
+      "from": "Борьба в прямом эфире",
+      "to": "Девушка ударник"
+    },
+    {
+      "from": "Борьба в прямом эфире",
+      "to": "Сильнейший в истории ученик Кеничи"
+    },
+    {
+      "from": "Борьба в прямом эфире",
+      "to": "Не умереть"
+    },
+    {
+      "from": "Борьба в прямом эфире",
+      "to": "Отброс"
+    },
+    {
+      "from": "Борьба в прямом эфире",
+      "to": "Проход защиты"
+    },
+    {
+      "from": "Единственный исход злодейки — смерть",
+      "to": "Создатель злодейки"
+    },
+    {
+      "from": "Единственный исход злодейки — смерть",
+      "to": "Блондинка-призывательница"
+    },
+    {
+      "from": "Единственный исход злодейки — смерть",
+      "to": "Я стала властвующей антагонисткой романа"
+    },
+    {
+      "from": "Единственный исход злодейки — смерть",
+      "to": "Читра"
+    },
+    {
+      "from": "Единственный исход злодейки — смерть",
+      "to": "Жертва Принцессы"
+    },
+    {
+      "from": "Единственный исход злодейки — смерть",
+      "to": "Злодейка, которую убили 108 раз, но она все вспомнила. Дева с рубином творит чудеса"
+    },
+    {
+      "from": "Игра вслепую",
+      "to": "Ловушка"
+    },
+    {
+      "from": "Игра вслепую",
+      "to": "Парень-Ракушка / Жемчужный Мальчик"
+    },
+    {
+      "from": "Игра вслепую",
+      "to": "Змеиный язык"
+    },
+    {
+      "from": "Игра вслепую",
+      "to": "Сволочь"
+    },
+    {
+      "from": "Игра вслепую",
+      "to": "Девять Камней"
+    },
+    {
+      "from": "Игра вслепую",
+      "to": "Ночь, которую ты должен запомнить"
+    },
+    {
+      "from": "Прелести садизма: Другая история Б",
+      "to": "Плод языка"
+    },
+    {
+      "from": "Прелести садизма: Другая история Б",
+      "to": "Убить Сталкера"
+    },
+    {
+      "from": "Прелести садизма: Другая история Б",
+      "to": "Тарас Шевченко: Неизвестная история"
+    },
+    {
+      "from": "Прелести садизма: Другая история Б",
+      "to": "Ноги, что не могут идти"
+    },
+    {
+      "from": "Прелести садизма: Другая история Б",
+      "to": "Не давайте неосторожных обещаний"
+    },
+    {
+      "from": "Прелести садизма: Другая история Б",
+      "to": "Ловушка"
+    },
+    {
+      "from": "Наш лидер - омежка!",
+      "to": "Кровные узы"
+    },
+    {
+      "from": "Наш лидер - омежка!",
+      "to": "19 Дней - Однажды"
+    },
+    {
+      "from": "Наш лидер - омежка!",
+      "to": "Любовь или ненависть"
+    },
+    {
+      "from": "Наш лидер - омежка!",
+      "to": "Как подтолкнуть этого альфу?"
+    },
+    {
+      "from": "Наш лидер - омежка!",
+      "to": "Потерянный король"
+    },
+    {
+      "from": "Наш лидер - омежка!",
+      "to": "Парень-Ракушка / Жемчужный Мальчик"
+    },
+    {
+      "from": "Истинное Образование",
+      "to": "Боксёр"
+    },
+    {
+      "from": "Истинное Образование",
+      "to": "Неубиваемый"
+    },
+    {
+      "from": "Истинное Образование",
+      "to": "Крутой учитель Онидзука"
+    },
+    {
+      "from": "Истинное Образование",
+      "to": "Месть психопата"
+    },
+    {
+      "from": "Истинное Образование",
+      "to": "Учебная группа"
+    },
+    {
+      "from": "Истинное Образование",
+      "to": "Жестокость: Исповедь полицейского-убийцы"
+    },
+    {
+      "from": "Подчинись мне",
+      "to": "На равных"
+    },
+    {
+      "from": "Подчинись мне",
+      "to": "Прелести садизма: Другая история Б"
+    },
+    {
+      "from": "Подчинись мне",
+      "to": "Физическое воспитание"
+    },
+    {
+      "from": "Подчинись мне",
+      "to": "Изнасилование"
+    },
+    {
+      "from": "Подчинись мне",
+      "to": "Убить Сталкера"
+    },
+    {
+      "from": "Подчинись мне",
+      "to": "Плод языка"
+    },
+    {
+      "from": "Ублюдок FFF-ранга",
+      "to": "Оттомэн"
+    },
+    {
+      "from": "Ублюдок FFF-ранга",
+      "to": "Ранкер, который живет второй раз"
+    },
+    {
+      "from": "Ублюдок FFF-ранга",
+      "to": "Логин Мурим"
+    },
+    {
+      "from": "Ублюдок FFF-ранга",
+      "to": "Это реально герой?"
+    },
+    {
+      "from": "Ублюдок FFF-ранга",
+      "to": "Немёртвый бывший генерал-рыцарь"
+    },
+    {
+      "from": "Ублюдок FFF-ранга",
+      "to": "Маг-целитель: новый старт ~ Высшее исцеление: чары моментальной смерти и кража умений"
+    },
+    {
+      "from": "Опасный круглосуточный магазин",
+      "to": "Когда убийца влюбляется"
+    },
+    {
+      "from": "Опасный круглосуточный магазин",
+      "to": "Парень-Ракушка / Жемчужный Мальчик"
+    },
+    {
+      "from": "Опасный круглосуточный магазин",
+      "to": "Денег нет!"
+    },
+    {
+      "from": "Опасный круглосуточный магазин",
+      "to": "Арена нечистой силы"
+    },
+    {
+      "from": "Опасный круглосуточный магазин",
+      "to": "Небесное вторжение"
+    },
+    {
+      "from": "Опасный круглосуточный магазин",
+      "to": "Приятель на одну ночь"
+    },
+    {
+      "from": "Грабитель прудовых улиток",
+      "to": "Такой же как ты"
+    },
+    {
+      "from": "Грабитель прудовых улиток",
+      "to": "Воспитание хозяина"
+    },
+    {
+      "from": "Грабитель прудовых улиток",
+      "to": "О, мой ассистент!"
+    },
+    {
+      "from": "Грабитель прудовых улиток",
+      "to": "А вы знаете о феях?"
+    },
+    {
+      "from": "Грабитель прудовых улиток",
+      "to": "AVLE"
+    },
+    {
+      "from": "Грабитель прудовых улиток",
+      "to": "Выживание некроманта"
+    },
+    {
+      "from": "Захлестнуло как цунами",
+      "to": "THIRDS: Когда кончается ад"
+    },
+    {
+      "from": "Захлестнуло как цунами",
+      "to": "Ты Здесь"
+    },
+    {
+      "from": "Захлестнуло как цунами",
+      "to": "Неромантичный"
+    },
+    {
+      "from": "Захлестнуло как цунами",
+      "to": "Барашек Исака"
+    },
+    {
+      "from": "Захлестнуло как цунами",
+      "to": "Моё дорогое убийство"
+    },
+    {
+      "from": "Захлестнуло как цунами",
+      "to": "Взрыв"
+    },
+    {
+      "from": "Будь моим питомцем",
+      "to": "Партнер для БДСМ"
+    },
+    {
+      "from": "Будь моим питомцем",
+      "to": "Воспитание хозяина"
+    },
+    {
+      "from": "Будь моим питомцем",
+      "to": "Скучаю по тебе, Люцифер"
+    },
+    {
+      "from": "Будь моим питомцем",
+      "to": "И завтра ты тоже будешь рядом, Тодороки-кун"
+    },
+    {
+      "from": "Будь моим питомцем",
+      "to": "Вишня цветет после зимы"
+    },
+    {
+      "from": "Будь моим питомцем",
+      "to": "Хозяин хозяина"
+    },
+    {
+      "from": "Перекрыть",
+      "to": "Владелица бусины"
+    },
+    {
+      "from": "Перекрыть",
+      "to": "Укус лунного света"
+    },
+    {
+      "from": "Перекрыть",
+      "to": "Безумная комбинация"
+    },
+    {
+      "from": "Перекрыть",
+      "to": "Когда якудза влюблён"
+    },
+    {
+      "from": "Перекрыть",
+      "to": "Пентхаус XXX"
+    },
+    {
+      "from": "Перекрыть",
+      "to": "Стигма"
+    },
+    {
+      "from": "Моя геройская академия",
+      "to": "Великий из Бродячих псов"
+    },
+    {
+      "from": "Моя геройская академия",
+      "to": "Святая Ночь"
+    },
+    {
+      "from": "Моя геройская академия",
+      "to": "Токийские мстители"
+    },
+    {
+      "from": "Моя геройская академия",
+      "to": "Класс убийц"
+    },
+    {
+      "from": "Моя геройская академия",
+      "to": "Клинок, рассекающий демонов"
+    },
+    {
+      "from": "Моя геройская академия",
+      "to": "Скрытые Герои"
+    },
+    {
+      "from": "Не издевайся, Нагаторо-сан",
+      "to": "Девочка, любящая оскорблять"
+    },
+    {
+      "from": "Не издевайся, Нагаторо-сан",
+      "to": "Эта фарфоровая кукла влюбилась"
+    },
+    {
+      "from": "Не издевайся, Нагаторо-сан",
+      "to": "Кагуя хочет, чтобы ей признались: Гении - война любви и разума"
+    },
+    {
+      "from": "Не издевайся, Нагаторо-сан",
+      "to": "Колючая груша"
+    },
+    {
+      "from": "Не издевайся, Нагаторо-сан",
+      "to": "Гия-сан, которая хочет смутить, и Тадамичи, которого не смутить"
+    },
+    {
+      "from": "Не издевайся, Нагаторо-сан",
+      "to": "Узаки-чан хочет тусоваться!"
+    },
+    {
+      "from": "Брошенная императрица",
+      "to": "Ваше величество, пожалуйста, не убивайте меня снова"
+    },
+    {
+      "from": "Брошенная императрица",
+      "to": "Люсия"
+    },
+    {
+      "from": "Брошенная императрица",
+      "to": "Второй раунд в высшем свете"
+    },
+    {
+      "from": "Брошенная императрица",
+      "to": "Блондинка-призывательница"
+    },
+    {
+      "from": "Брошенная императрица",
+      "to": "Добродетель злодейки"
+    },
+    {
+      "from": "Брошенная императрица",
+      "to": "Княгиня чудовищ и Принцесса по контракту"
+    },
+    {
+      "from": "Охотник-суицидник SSS-уровня",
+      "to": "Мой наставник - небесный демон"
+    },
+    {
+      "from": "Охотник-суицидник SSS-уровня",
+      "to": "Немёртвый бывший генерал-рыцарь"
+    },
+    {
+      "from": "Охотник-суицидник SSS-уровня",
+      "to": "Ветролом"
+    },
+    {
+      "from": "Охотник-суицидник SSS-уровня",
+      "to": "Я стал главным ублюдком в этой новелле"
+    },
+    {
+      "from": "Охотник-суицидник SSS-уровня",
+      "to": "Поднятие уровня с помощью еды"
+    },
+    {
+      "from": "Охотник-суицидник SSS-уровня",
+      "to": "Уровень 0"
+    },
+    {
+      "from": "Прогулка по воде",
+      "to": "Марсель"
+    },
+    {
+      "from": "Прогулка по воде",
+      "to": "Сентиментальное родео: актёр гей-порно влюбился в натурала"
+    },
+    {
+      "from": "Прогулка по воде",
+      "to": "Люби меня и Ненавидь меня"
+    },
+    {
+      "from": "Прогулка по воде",
+      "to": "Под зелёным светом"
+    },
+    {
+      "from": "Прогулка по воде",
+      "to": "Ливета"
+    },
+    {
+      "from": "Прогулка по воде",
+      "to": "Негодник"
+    },
+    {
+      "from": "Как защитить старшего брата главной героини",
+      "to": "Что, если я приручила своего брата слишком хорошо"
+    },
+    {
+      "from": "Как защитить старшего брата главной героини",
+      "to": "Я стала дрянной дочерью герцога"
+    },
+    {
+      "from": "Как защитить старшего брата главной героини",
+      "to": "Злодейка 99 уровня ~Я могу быть Скрытым Боссом, но я не Король Демонов~"
+    },
+    {
+      "from": "Как защитить старшего брата главной героини",
+      "to": "Под дубом"
+    },
+    {
+      "from": "Как защитить старшего брата главной героини",
+      "to": "Закон выживания благородной леди"
+    },
+    {
+      "from": "Как защитить старшего брата главной героини",
+      "to": "Нулевая игра"
+    },
+    {
+      "from": "Сладкая западня",
+      "to": "Свидание вслепую"
+    },
+    {
+      "from": "Сладкая западня",
+      "to": "Безнадёжный"
+    },
+    {
+      "from": "Сладкая западня",
+      "to": "Токийские мстители"
+    },
+    {
+      "from": "Сладкая западня",
+      "to": "Воспитание хозяина"
+    },
+    {
+      "from": "Сладкая западня",
+      "to": "Никогда не пойму"
+    },
+    {
+      "from": "Сладкая западня",
+      "to": "Любовь — просто иллюзия"
+    },
+    {
+      "from": "Элисед",
+      "to": "Сумеречный Хоулер"
+    },
+    {
+      "from": "Элисед",
+      "to": "Башня Бога"
+    },
+    {
+      "from": "Элисед",
+      "to": "неОРДИНАРНЫЕ"
+    },
+    {
+      "from": "Элисед",
+      "to": "Папочка фидер"
+    },
+    {
+      "from": "Элисед",
+      "to": "Кабинет Хейма"
+    },
+    {
+      "from": "Элисед",
+      "to": "Прирожденный наёмник"
+    },
+    {
+      "from": "Герой, жаждущий мести, уничтожит врагов Силой Тьмы",
+      "to": "Ты думаешь, что сможешь сбежать после реинкарнации, Братик?"
+    },
+    {
+      "from": "Герой, жаждущий мести, уничтожит врагов Силой Тьмы",
+      "to": "Ублюдок FFF-ранга"
+    },
+    {
+      "from": "Герой, жаждущий мести, уничтожит врагов Силой Тьмы",
+      "to": "Распятие Шести"
+    },
+    {
+      "from": "Герой, жаждущий мести, уничтожит врагов Силой Тьмы",
+      "to": "Волшебник из другого мира не произносит заклинаний"
+    },
+    {
+      "from": "Герой, жаждущий мести, уничтожит врагов Силой Тьмы",
+      "to": "Убийца Гоблинов"
+    },
+    {
+      "from": "Герой, жаждущий мести, уничтожит врагов Силой Тьмы",
+      "to": "Мастер меча, живущий на крыше"
+    },
+    {
+      "from": "Второй брак императрицы",
+      "to": "Бывшая девушка великого воителя"
+    },
+    {
+      "from": "Второй брак императрицы",
+      "to": "Вторая жизнь злодейки"
+    },
+    {
+      "from": "Второй брак императрицы",
+      "to": "Лилиен Туринская"
+    },
+    {
+      "from": "Второй брак императрицы",
+      "to": "Берегись этой чертовки!"
+    },
+    {
+      "from": "Второй брак императрицы",
+      "to": "Я решила перестать делать вид, что не замечаю измен"
+    },
+    {
+      "from": "Второй брак императрицы",
+      "to": "Становление королевой"
+    },
+    {
+      "from": "Слышно даже без микрофона",
+      "to": "Секс-игрушки атакуют!"
+    },
+    {
+      "from": "Слышно даже без микрофона",
+      "to": "Любовь с первого взгляда"
+    },
+    {
+      "from": "Слышно даже без микрофона",
+      "to": "Грудь месяца"
+    },
+    {
+      "from": "Слышно даже без микрофона",
+      "to": "Апория"
+    },
+    {
+      "from": "Слышно даже без микрофона",
+      "to": "Грудь моего Кохая великолепна~"
+    },
+    {
+      "from": "Слышно даже без микрофона",
+      "to": "Разворот кувырком"
+    },
+    {
+      "from": "Постыдное♡приложение",
+      "to": "Комнаты напротив"
+    },
+    {
+      "from": "Постыдное♡приложение",
+      "to": "Клиническое испытание"
+    },
+    {
+      "from": "Постыдное♡приложение",
+      "to": "Окна напротив"
+    },
+    {
+      "from": "Постыдное♡приложение",
+      "to": "Приложение"
+    },
+    {
+      "from": "Постыдное♡приложение",
+      "to": "Любовь с первого взгляда"
+    },
+    {
+      "from": "Постыдное♡приложение",
+      "to": "AVLE"
+    },
+    {
+      "from": "Зона любовных ограничений",
+      "to": "Любовный сглаз"
+    },
+    {
+      "from": "Зона любовных ограничений",
+      "to": "Ужин с боссом"
+    },
+    {
+      "from": "Зона любовных ограничений",
+      "to": "Бессонные метания"
+    },
+    {
+      "from": "Зона любовных ограничений",
+      "to": "Движение любви"
+    },
+    {
+      "from": "Зона любовных ограничений",
+      "to": "Тайные Отношения"
+    },
+    {
+      "from": "Зона любовных ограничений",
+      "to": "Ю Су, это есть нельзя!"
+    },
+    {
+      "from": "Никогда не пойму",
+      "to": "Лягушачий принц"
+    },
+    {
+      "from": "Никогда не пойму",
+      "to": "Любимчик"
+    },
+    {
+      "from": "Никогда не пойму",
+      "to": "Мир BL против не-BL-парня"
+    },
+    {
+      "from": "Никогда не пойму",
+      "to": "Как у меня появился парень во время игры?"
+    },
+    {
+      "from": "Никогда не пойму",
+      "to": "Последний вампир"
+    },
+    {
+      "from": "Никогда не пойму",
+      "to": "Остерегайтесь демонов"
+    },
+    {
+      "from": "Шампанское и розы",
+      "to": "Мафия демонов"
+    },
+    {
+      "from": "Шампанское и розы",
+      "to": "Я стал графским ублюдком"
+    },
+    {
+      "from": "Шампанское и розы",
+      "to": "Опасный круглосуточный магазин"
+    },
+    {
+      "from": "Шампанское и розы",
+      "to": "Артур"
+    },
+    {
+      "from": "Шампанское и розы",
+      "to": "Роман в один конец"
+    },
+    {
+      "from": "Шампанское и розы",
+      "to": "Ису из семьи Кан"
+    },
+    {
+      "from": "Окна напротив",
+      "to": "Придурок! Кто разрешил меня трогать?!"
+    },
+    {
+      "from": "Окна напротив",
+      "to": "Четвёртый Оямато Тацуюки"
+    },
+    {
+      "from": "Окна напротив",
+      "to": "10 лет моей любви к тебе"
+    },
+    {
+      "from": "Окна напротив",
+      "to": "Невероятное Приключение ДжоДжо Часть 7: Стил-Болл-Ран"
+    },
+    {
+      "from": "Окна напротив",
+      "to": "Постыдное♡приложение"
+    },
+    {
+      "from": "Окна напротив",
+      "to": "Клуб Яричин"
+    },
+    {
+      "from": "Комнаты напротив",
+      "to": "Приватные занятия"
+    },
+    {
+      "from": "Комнаты напротив",
+      "to": "Вишня цветет после зимы"
+    },
+    {
+      "from": "Комнаты напротив",
+      "to": "Звезда и фанат"
+    },
+    {
+      "from": "Комнаты напротив",
+      "to": "Мой подчинённый"
+    },
+    {
+      "from": "Комнаты напротив",
+      "to": "Партнер для БДСМ"
+    },
+    {
+      "from": "Комнаты напротив",
+      "to": "BJ Алекс"
+    },
+    {
+      "from": "Реинкарнация врача",
+      "to": "Джин"
+    },
+    {
+      "from": "Реинкарнация врача",
+      "to": "Доктор"
+    },
+    {
+      "from": "Реинкарнация врача",
+      "to": "Легенда о Регрессии"
+    },
+    {
+      "from": "Реинкарнация врача",
+      "to": "Поднятие уровня в одиночку"
+    },
+    {
+      "from": "Реинкарнация врача",
+      "to": "Настоящий Мужчина"
+    },
+    {
+      "from": "Реинкарнация врача",
+      "to": "Злодейка Каруна стала младше"
+    },
+    {
+      "from": "Прирожденный наёмник",
+      "to": "Наемный солдат"
+    },
+    {
+      "from": "Прирожденный наёмник",
+      "to": "Свободный выбор"
+    },
+    {
+      "from": "Прирожденный наёмник",
+      "to": "Выше Всех Богов"
+    },
+    {
+      "from": "Прирожденный наёмник",
+      "to": "Повелитель Гоблинов"
+    },
+    {
+      "from": "Прирожденный наёмник",
+      "to": "Басня"
+    },
+    {
+      "from": "Прирожденный наёмник",
+      "to": "Реинкарнация Военного"
+    },
+    {
+      "from": "Мир вещей",
+      "to": "Парень-Ракушка / Жемчужный Мальчик"
+    },
+    {
+      "from": "Мир вещей",
+      "to": "Чёрное зеркало"
+    },
+    {
+      "from": "Мир вещей",
+      "to": "Взаперти"
+    },
+    {
+      "from": "Мир вещей",
+      "to": "Сломленный"
+    },
+    {
+      "from": "Мир вещей",
+      "to": "Подчинись мне"
+    },
+    {
+      "from": "Мир вещей",
+      "to": "Кодекс молчания"
+    },
+    {
+      "from": "Когда якудза влюблён",
+      "to": "Поцелуй невесту"
+    },
+    {
+      "from": "Когда якудза влюблён",
+      "to": "Бывший Якудза стал писателем BL"
+    },
+    {
+      "from": "Когда якудза влюблён",
+      "to": "Магазинчик 'Longtime Red'"
+    },
+    {
+      "from": "Когда якудза влюблён",
+      "to": "Захлестнуло как цунами"
+    },
+    {
+      "from": "Когда якудза влюблён",
+      "to": "Тише, ты разбудишь ребенка"
+    },
+    {
+      "from": "Когда якудза влюблён",
+      "to": "Язык жестов"
+    },
+    {
+      "from": "Дарую тебе свою кровь",
+      "to": "Королевский слуга"
+    },
+    {
+      "from": "Дарую тебе свою кровь",
+      "to": "Мой маленький вампир"
+    },
+    {
+      "from": "Дарую тебе свою кровь",
+      "to": "Мой сосед - вампир"
+    },
+    {
+      "from": "Дарую тебе свою кровь",
+      "to": "Переливание"
+    },
+    {
+      "from": "Дарую тебе свою кровь",
+      "to": "Игра в прятки"
+    },
+    {
+      "from": "Дарую тебе свою кровь",
+      "to": "Кровные узы"
+    },
+    {
+      "from": "Магия Вернувшегося Должна Быть Особенной",
+      "to": "Пожиратель книг"
+    },
+    {
+      "from": "Магия Вернувшегося Должна Быть Особенной",
+      "to": "Демон на ужин!"
+    },
+    {
+      "from": "Магия Вернувшегося Должна Быть Особенной",
+      "to": "Обещание, расцветшее в орхидеях"
+    },
+    {
+      "from": "Магия Вернувшегося Должна Быть Особенной",
+      "to": "Точка Возврата"
+    },
+    {
+      "from": "Магия Вернувшегося Должна Быть Особенной",
+      "to": "Система жизни"
+    },
+    {
+      "from": "Магия Вернувшегося Должна Быть Особенной",
+      "to": "Поднятие уровня в одиночку"
+    },
+    {
+      "from": "Такой же как ты",
+      "to": "Любовь или ненависть"
+    },
+    {
+      "from": "Такой же как ты",
+      "to": "Никогда не пойму"
+    },
+    {
+      "from": "Такой же как ты",
+      "to": "Это же просто сон?!"
+    },
+    {
+      "from": "Такой же как ты",
+      "to": "Итог"
+    },
+    {
+      "from": "Такой же как ты",
+      "to": "Ночные этюды"
+    },
+    {
+      "from": "Такой же как ты",
+      "to": "Вишня цветет после зимы"
+    },
+    {
+      "from": "Реинкарнация Военного",
+      "to": "Начало после конца"
+    },
+    {
+      "from": "Реинкарнация Военного",
+      "to": "Убить Злодея"
+    },
+    {
+      "from": "Реинкарнация Военного",
+      "to": "Реинкарнация врача"
+    },
+    {
+      "from": "Реинкарнация Военного",
+      "to": "Крушитель: Новые волны"
+    },
+    {
+      "from": "Реинкарнация Военного",
+      "to": "Лавка убийцы"
+    },
+    {
+      "from": "Реинкарнация Военного",
+      "to": "Выживание с нуля"
+    },
+    {
+      "from": "Ю Су, это есть нельзя!",
+      "to": "Между прочим, мы живем вместе"
+    },
+    {
+      "from": "Ю Су, это есть нельзя!",
+      "to": "Хладнокровный зверь"
+    },
+    {
+      "from": "Ю Су, это есть нельзя!",
+      "to": "Взаперти"
+    },
+    {
+      "from": "Ю Су, это есть нельзя!",
+      "to": "Комнаты напротив"
+    },
+    {
+      "from": "Ю Су, это есть нельзя!",
+      "to": "10 лет моей любви к тебе"
+    },
+    {
+      "from": "Ю Су, это есть нельзя!",
+      "to": "Люблю-ненавижу"
+    },
+    {
+      "from": "Плод языка",
+      "to": "Яойщица в теле идеального семе"
+    },
+    {
+      "from": "Плод языка",
+      "to": "Мир вещей"
+    },
+    {
+      "from": "Плод языка",
+      "to": "Стокгольмский синдром"
+    },
+    {
+      "from": "Плод языка",
+      "to": "Упустить"
+    },
+    {
+      "from": "Плод языка",
+      "to": "Призрачный киллер"
+    },
+    {
+      "from": "Плод языка",
+      "to": "Секрет работника К"
+    },
+    {
+      "from": "О, мой ассистент!",
+      "to": "Хороший учитель"
+    },
+    {
+      "from": "О, мой ассистент!",
+      "to": "Не Могу Оторвать от Тебя Взгляд"
+    },
+    {
+      "from": "О, мой ассистент!",
+      "to": "Звезда и фанат"
+    },
+    {
+      "from": "О, мой ассистент!",
+      "to": "До десяти"
+    },
+    {
+      "from": "О, мой ассистент!",
+      "to": "Первая фальшивая любовь Чжоу Чэна"
+    },
+    {
+      "from": "О, мой ассистент!",
+      "to": "Язык жестов"
+    },
+    {
+      "from": "Магистр Дьявольского Культа",
+      "to": "Культиватор из Будущего"
+    },
+    {
+      "from": "Магистр Дьявольского Культа",
+      "to": "Список Ланъя"
+    },
+    {
+      "from": "Магистр Дьявольского Культа",
+      "to": "Хаски и его учитель белый кот - Додзинси"
+    },
+    {
+      "from": "Магистр Дьявольского Культа",
+      "to": "Смутно"
+    },
+    {
+      "from": "Магистр Дьявольского Культа",
+      "to": "Старейшина укажет путь"
+    },
+    {
+      "from": "Магистр Дьявольского Культа",
+      "to": "Система «Спаси-Себя-Сам» для главного злодея"
+    },
+    {
+      "from": "Обещанный Неверленд",
+      "to": "Атака Титанов"
+    },
+    {
+      "from": "Обещанный Неверленд",
+      "to": "Тетрадь смерти"
+    },
+    {
+      "from": "Обещанный Неверленд",
+      "to": "Колыбель Сейо"
+    },
+    {
+      "from": "Обещанный Неверленд",
+      "to": "Человечество на закуску"
+    },
+    {
+      "from": "Обещанный Неверленд",
+      "to": "Человеческая ферма"
+    },
+    {
+      "from": "Обещанный Неверленд",
+      "to": "Прощай, Питер Пэн"
+    },
+    {
+      "from": "Поцелуй меня, лжец",
+      "to": "Любовь — просто иллюзия"
+    },
+    {
+      "from": "Поцелуй меня, лжец",
+      "to": "Незапланированная беременность"
+    },
+    {
+      "from": "Поцелуй меня, лжец",
+      "to": "Воспитание хозяина"
+    },
+    {
+      "from": "Поцелуй меня, лжец",
+      "to": "Невероятное приключение ДжоДжо — Часть 6: Каменный океан (В цвете)"
+    },
+    {
+      "from": "Поцелуй меня, лжец",
+      "to": "Секрет работника К"
+    },
+    {
+      "from": "Поцелуй меня, лжец",
+      "to": "День до ночи"
+    },
+    {
+      "from": "Серый кардинал",
+      "to": "Солнечное затмение"
+    },
+    {
+      "from": "Серый кардинал",
+      "to": "Меланхоличное утро"
+    },
+    {
+      "from": "Серый кардинал",
+      "to": "Детка, этот парень просто псих"
+    },
+    {
+      "from": "Серый кардинал",
+      "to": "Эннеада"
+    },
+    {
+      "from": "Серый кардинал",
+      "to": "Партнер для БДСМ"
+    },
+    {
+      "from": "Серый кардинал",
+      "to": "Шпинель"
+    }
+  ]
+}
